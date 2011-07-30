@@ -1,0 +1,169 @@
+
+/*	Resets
+	------	*/
+
+html, body, div, span, object, iframe, h1, h2, h3, h4, h5, h6, 
+p, blockquote, pre, a, abbr, address, cite, code, del, dfn, em, 
+img, ins, kbd, q, samp, small, strong, sub, sup, var, b, i, hr, 
+dl, dt, dd, ol, ul, li, fieldset, form, label, legend, 
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, figure, figcaption, hgroup, 
+menu, footer, header, nav, section, summary, time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+}
+
+article, aside, canvas, figure, figure img, figcaption, hgroup,
+footer, header, nav, section, audio, video {
+	display: block;
+}
+
+a img {border: 0;}
+
+/*clear fix*/
+div#header:after, div.student:after, div.clearfix {
+	clear:both;
+	content: ".";
+	display: block;
+	height: 0;
+	visibility: hidden;
+}
+
+/*	Styles for standard pixel density mobile display
+-----------------------------------------------    */
+
+
+/* body styles */
+
+body {
+	width: 80%;
+	font-family: Helvetica;
+	font-size: 20px;
+	line-height: 1.5;
+	color: black;
+	margin: 0 auto;
+}
+
+p {
+	margin-bottom: 15px;
+}
+
+/* header */
+div#header {
+	margin: 0 auto;
+}
+
+div#header h1 {
+	background: url('img/c3_logo_200.jpg') transparent top left no-repeat;
+	height: 150px;
+	text-indent: -999em;
+	margin: 30px 0;
+}
+
+/*student*/
+
+div.student {
+	margin: 30px auto;
+	border-bottom: 1px solid black;
+}
+
+div.student h3.specialty {
+	font-size: 24px;
+	font-weight: normal;
+	background: transparent top left no-repeat;
+	padding: 70px 0 0 115px;
+	height: 30px;
+	text-align: right;
+	border-bottom: 1px solid black;
+}
+
+div.student h3#fouhy {
+	background-image: url('img/peeps/100/fouhy.jpg');
+}
+
+div.student h2 {
+	font-size: 35px;
+	font-weight: bolder;
+	text-transform: uppercase;
+	margin: 20px 0 15px 0;
+}
+
+div.student ul {
+	margin: 30px 0 40px 0;
+	list-style: none;
+}
+
+div.student li {
+	display: inline;
+	margin-right: 10px;
+	font-weight: bold;
+}
+
+div.student li a {
+	color: black;
+}
+
+
+/*	Retina media query.
+	Overrides styles for devices with a 
+	device-pixel-ratio of 2+, such as iPhone 4.
+-----------------------------------------------    */
+
+@media 
+	only screen and (-webkit-min-device-pixel-ratio: 2),
+	only screen and (min-device-pixel-ratio: 2) {
+	
+
+	body {
+		font-size: 30px;
+	}
+	
+	p {
+		margin-bottom: 30px;
+	}
+	
+	div#header {
+	
+	}
+	
+	div#header h1 {
+		margin: 60px 0;
+		background-image: url('img/c3_logo_500.png');
+		height: 366px;
+	}
+	
+	div.student {
+		margin: 60px auto;
+	}
+	
+	div.student h3.specialty {
+		font-size: 48px;
+		font-weight: normal;
+		background: transparent top left no-repeat;
+		padding: 120px 0 0 215px;
+		height: 80px;
+		text-align: right;
+		border-bottom: 1px solid black;
+	}
+	
+	div.student h3#fouhy {
+		background-image: url('img/peeps/200/fouhy.jpg');
+	}
+	
+	div.student h2 {
+		font-size: 50px;
+		font-weight: bolder;
+		text-transform: uppercase;
+		margin: 40px 0 30px 0;
+	}
+	
+	div.student ul {
+		margin: 60px 0 80px 0;
+	}
+	
+	div.student li {
+		margin-right: 20px;
+	}
+
+}

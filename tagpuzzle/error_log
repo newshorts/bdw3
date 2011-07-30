@@ -1,0 +1,440 @@
+[29-Jul-2011 19:40:35] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[29-Jul-2011 19:40:35] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/php_zip.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/php_zip.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[29-Jul-2011 19:40:35] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[29-Jul-2011 19:40:35] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[29-Jul-2011 19:41:54] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[29-Jul-2011 19:41:54] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/php_zip.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/php_zip.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[29-Jul-2011 19:41:54] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[29-Jul-2011 19:41:54] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[29-Jul-2011 19:49:36] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[29-Jul-2011 19:49:36] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/php_zip.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/php_zip.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[29-Jul-2011 19:49:36] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[29-Jul-2011 19:49:36] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[29-Jul-2011 19:50:21] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[29-Jul-2011 19:50:21] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/php_zip.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/php_zip.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[29-Jul-2011 19:50:21] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[29-Jul-2011 19:50:21] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[29-Jul-2011 19:52:46] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[29-Jul-2011 19:52:46] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/php_zip.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/php_zip.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[29-Jul-2011 19:52:46] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[29-Jul-2011 19:52:46] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[29-Jul-2011 19:53:25] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[29-Jul-2011 19:53:25] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/php_zip.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/php_zip.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[29-Jul-2011 19:53:25] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[29-Jul-2011 19:53:25] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[29-Jul-2011 19:53:47] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[29-Jul-2011 19:53:47] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/php_zip.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/php_zip.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[29-Jul-2011 19:53:47] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[29-Jul-2011 19:53:47] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[29-Jul-2011 19:55:17] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[29-Jul-2011 19:55:17] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/php_zip.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/php_zip.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[29-Jul-2011 19:55:17] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[29-Jul-2011 19:55:17] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[29-Jul-2011 19:56:13] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[29-Jul-2011 19:56:13] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/php_zip.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/php_zip.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[29-Jul-2011 19:56:13] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[29-Jul-2011 19:56:13] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[29-Jul-2011 19:56:33] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[29-Jul-2011 19:56:33] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/php_zip.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/php_zip.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[29-Jul-2011 19:56:33] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[29-Jul-2011 19:56:33] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[29-Jul-2011 19:57:32] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[29-Jul-2011 19:57:32] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/php_zip.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/php_zip.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[29-Jul-2011 19:57:32] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[29-Jul-2011 19:57:32] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[29-Jul-2011 19:57:47] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[29-Jul-2011 19:57:47] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/php_zip.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/php_zip.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[29-Jul-2011 19:57:47] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[29-Jul-2011 19:57:47] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[29-Jul-2011 19:58:03] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[29-Jul-2011 19:58:03] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/php_zip.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/php_zip.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[29-Jul-2011 19:58:03] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[29-Jul-2011 19:58:03] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[29-Jul-2011 20:00:44] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[29-Jul-2011 20:00:44] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/php_zip.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/php_zip.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[29-Jul-2011 20:00:44] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[29-Jul-2011 20:00:44] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[29-Jul-2011 20:02:05] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[29-Jul-2011 20:02:05] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/php_zip.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/php_zip.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[29-Jul-2011 20:02:05] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[29-Jul-2011 20:02:05] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[29-Jul-2011 20:03:40] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[29-Jul-2011 20:03:40] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/php_zip.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/php_zip.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[29-Jul-2011 20:03:40] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[29-Jul-2011 20:03:40] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[29-Jul-2011 20:04:05] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[29-Jul-2011 20:04:05] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/php_zip.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/php_zip.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[29-Jul-2011 20:04:05] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[29-Jul-2011 20:04:05] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[29-Jul-2011 20:06:23] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[29-Jul-2011 20:06:23] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/php_zip.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/php_zip.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[29-Jul-2011 20:06:23] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[29-Jul-2011 20:06:23] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[29-Jul-2011 20:06:27] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[29-Jul-2011 20:06:27] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/php_zip.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/php_zip.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[29-Jul-2011 20:06:27] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[29-Jul-2011 20:06:27] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[29-Jul-2011 20:07:25] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[29-Jul-2011 20:07:25] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/php_zip.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/php_zip.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[29-Jul-2011 20:07:25] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[29-Jul-2011 20:07:25] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[29-Jul-2011 20:09:03] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[29-Jul-2011 20:09:03] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/php_zip.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/php_zip.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[29-Jul-2011 20:09:03] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[29-Jul-2011 20:09:03] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[29-Jul-2011 20:10:15] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[29-Jul-2011 20:10:15] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/php_zip.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/php_zip.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[29-Jul-2011 20:10:15] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[29-Jul-2011 20:10:15] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[29-Jul-2011 20:10:28] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[29-Jul-2011 20:10:28] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/php_zip.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/php_zip.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[29-Jul-2011 20:10:28] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[29-Jul-2011 20:10:28] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[29-Jul-2011 20:10:29] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[29-Jul-2011 20:10:29] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/php_zip.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/php_zip.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[29-Jul-2011 20:10:29] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[29-Jul-2011 20:10:29] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[29-Jul-2011 20:11:12] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[29-Jul-2011 20:11:12] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/php_zip.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/php_zip.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[29-Jul-2011 20:11:12] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[29-Jul-2011 20:11:12] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[29-Jul-2011 20:11:35] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[29-Jul-2011 20:11:35] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/php_zip.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/php_zip.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[29-Jul-2011 20:11:35] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[29-Jul-2011 20:11:35] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[29-Jul-2011 20:12:27] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[29-Jul-2011 20:12:27] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/php_zip.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/php_zip.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[29-Jul-2011 20:12:27] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[29-Jul-2011 20:12:27] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[29-Jul-2011 20:13:16] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[29-Jul-2011 20:13:16] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/php_zip.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/php_zip.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[29-Jul-2011 20:13:16] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[29-Jul-2011 20:13:16] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[29-Jul-2011 20:13:31] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[29-Jul-2011 20:13:31] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/php_zip.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/php_zip.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[29-Jul-2011 20:13:31] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[29-Jul-2011 20:13:31] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[29-Jul-2011 20:14:03] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[29-Jul-2011 20:14:03] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/php_zip.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/php_zip.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[29-Jul-2011 20:14:03] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[29-Jul-2011 20:14:03] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[29-Jul-2011 20:14:26] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[29-Jul-2011 20:14:26] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/php_zip.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/php_zip.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[29-Jul-2011 20:14:26] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[29-Jul-2011 20:14:26] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[29-Jul-2011 20:15:19] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[29-Jul-2011 20:15:19] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/php_zip.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/php_zip.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[29-Jul-2011 20:15:19] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[29-Jul-2011 20:15:19] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[29-Jul-2011 20:15:42] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[29-Jul-2011 20:15:42] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/php_zip.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/php_zip.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[29-Jul-2011 20:15:42] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[29-Jul-2011 20:15:42] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[29-Jul-2011 20:15:52] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[29-Jul-2011 20:15:52] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/php_zip.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/php_zip.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[29-Jul-2011 20:15:52] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[29-Jul-2011 20:15:52] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[29-Jul-2011 20:18:55] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[29-Jul-2011 20:18:55] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/php_zip.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/php_zip.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[29-Jul-2011 20:18:55] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[29-Jul-2011 20:18:55] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[29-Jul-2011 20:19:34] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[29-Jul-2011 20:19:34] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/php_zip.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/php_zip.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[29-Jul-2011 20:19:34] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[29-Jul-2011 20:19:34] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[29-Jul-2011 20:19:40] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[29-Jul-2011 20:19:40] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/php_zip.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/php_zip.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[29-Jul-2011 20:19:40] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[29-Jul-2011 20:19:40] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[29-Jul-2011 20:21:10] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[29-Jul-2011 20:21:10] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/php_zip.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/php_zip.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[29-Jul-2011 20:21:10] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[29-Jul-2011 20:21:10] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[29-Jul-2011 20:22:13] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[29-Jul-2011 20:22:13] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/php_zip.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/php_zip.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[29-Jul-2011 20:22:13] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[29-Jul-2011 20:22:13] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[29-Jul-2011 20:22:29] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[29-Jul-2011 20:22:29] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/php_zip.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/php_zip.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[29-Jul-2011 20:22:29] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[29-Jul-2011 20:22:29] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[29-Jul-2011 20:22:32] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[29-Jul-2011 20:22:32] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/php_zip.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/php_zip.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[29-Jul-2011 20:22:32] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[29-Jul-2011 20:22:32] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[29-Jul-2011 20:23:12] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[29-Jul-2011 20:23:12] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/php_zip.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/php_zip.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[29-Jul-2011 20:23:12] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[29-Jul-2011 20:23:12] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[29-Jul-2011 20:23:34] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[29-Jul-2011 20:23:34] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/php_zip.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/php_zip.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[29-Jul-2011 20:23:34] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[29-Jul-2011 20:23:34] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[29-Jul-2011 20:23:45] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[29-Jul-2011 20:23:45] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/php_zip.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/php_zip.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[29-Jul-2011 20:23:45] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[29-Jul-2011 20:23:45] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[29-Jul-2011 20:24:31] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[29-Jul-2011 20:24:31] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/php_zip.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/php_zip.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[29-Jul-2011 20:24:31] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[29-Jul-2011 20:24:31] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[29-Jul-2011 20:24:34] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[29-Jul-2011 20:24:34] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/php_zip.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/php_zip.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[29-Jul-2011 20:24:34] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[29-Jul-2011 20:24:34] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[29-Jul-2011 20:25:14] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[29-Jul-2011 20:25:14] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/php_zip.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/php_zip.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[29-Jul-2011 20:25:14] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[29-Jul-2011 20:25:14] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[29-Jul-2011 20:25:19] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[29-Jul-2011 20:25:19] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/php_zip.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/php_zip.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[29-Jul-2011 20:25:19] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[29-Jul-2011 20:25:19] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[29-Jul-2011 20:25:38] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[29-Jul-2011 20:25:38] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/php_zip.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/php_zip.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[29-Jul-2011 20:25:38] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[29-Jul-2011 20:25:38] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[29-Jul-2011 20:25:58] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[29-Jul-2011 20:25:58] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/php_zip.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/php_zip.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[29-Jul-2011 20:25:58] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[29-Jul-2011 20:25:58] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[29-Jul-2011 20:26:29] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[29-Jul-2011 20:26:29] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/php_zip.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/php_zip.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[29-Jul-2011 20:26:29] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[29-Jul-2011 20:26:29] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[29-Jul-2011 20:26:34] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[29-Jul-2011 20:26:34] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/php_zip.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/php_zip.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[29-Jul-2011 20:26:34] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[29-Jul-2011 20:26:34] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[29-Jul-2011 20:26:51] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[29-Jul-2011 20:26:51] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/php_zip.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/php_zip.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[29-Jul-2011 20:26:51] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[29-Jul-2011 20:26:51] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[29-Jul-2011 20:27:16] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[29-Jul-2011 20:27:16] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/php_zip.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/php_zip.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[29-Jul-2011 20:27:16] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[29-Jul-2011 20:27:16] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[29-Jul-2011 20:27:27] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[29-Jul-2011 20:27:27] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/php_zip.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/php_zip.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[29-Jul-2011 20:27:27] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[29-Jul-2011 20:27:27] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[29-Jul-2011 20:28:34] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[29-Jul-2011 20:28:34] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/php_zip.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/php_zip.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[29-Jul-2011 20:28:34] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[29-Jul-2011 20:28:34] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[29-Jul-2011 20:29:15] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[29-Jul-2011 20:29:15] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/php_zip.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/php_zip.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[29-Jul-2011 20:29:15] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[29-Jul-2011 20:29:15] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[29-Jul-2011 20:29:23] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[29-Jul-2011 20:29:23] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/php_zip.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/php_zip.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[29-Jul-2011 20:29:23] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[29-Jul-2011 20:29:23] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[29-Jul-2011 20:29:34] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[29-Jul-2011 20:29:34] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/php_zip.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/php_zip.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[29-Jul-2011 20:29:34] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[29-Jul-2011 20:29:34] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[29-Jul-2011 20:29:40] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[29-Jul-2011 20:29:40] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/php_zip.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/php_zip.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[29-Jul-2011 20:29:40] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[29-Jul-2011 20:29:40] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[29-Jul-2011 20:30:11] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[29-Jul-2011 20:30:11] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/php_zip.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/php_zip.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[29-Jul-2011 20:30:11] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[29-Jul-2011 20:30:11] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[29-Jul-2011 20:31:25] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[29-Jul-2011 20:31:25] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/php_zip.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/php_zip.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[29-Jul-2011 20:31:25] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[29-Jul-2011 20:31:25] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[29-Jul-2011 20:32:56] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[29-Jul-2011 20:32:56] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/php_zip.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/php_zip.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[29-Jul-2011 20:32:56] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[29-Jul-2011 20:32:56] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[29-Jul-2011 20:33:06] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[29-Jul-2011 20:33:06] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/php_zip.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/php_zip.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[29-Jul-2011 20:33:06] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[29-Jul-2011 20:33:06] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[29-Jul-2011 20:33:16] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[29-Jul-2011 20:33:16] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/php_zip.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/php_zip.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[29-Jul-2011 20:33:16] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[29-Jul-2011 20:33:16] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[29-Jul-2011 20:33:36] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[29-Jul-2011 20:33:36] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/php_zip.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/php_zip.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[29-Jul-2011 20:33:36] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[29-Jul-2011 20:33:36] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[29-Jul-2011 20:36:38] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[29-Jul-2011 20:36:38] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/php_zip.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/php_zip.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[29-Jul-2011 20:36:38] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[29-Jul-2011 20:36:38] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[29-Jul-2011 20:36:40] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[29-Jul-2011 20:36:40] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/php_zip.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/php_zip.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[29-Jul-2011 20:36:40] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[29-Jul-2011 20:36:40] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[29-Jul-2011 20:36:57] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[29-Jul-2011 20:36:57] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/php_zip.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/php_zip.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[29-Jul-2011 20:36:57] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[29-Jul-2011 20:36:57] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[29-Jul-2011 20:38:22] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[29-Jul-2011 20:38:22] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/php_zip.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/php_zip.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[29-Jul-2011 20:38:22] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[29-Jul-2011 20:38:22] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[29-Jul-2011 20:38:25] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[29-Jul-2011 20:38:25] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/php_zip.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/php_zip.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[29-Jul-2011 20:38:25] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[29-Jul-2011 20:38:25] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[29-Jul-2011 20:38:31] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[29-Jul-2011 20:38:31] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/php_zip.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/php_zip.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[29-Jul-2011 20:38:31] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[29-Jul-2011 20:38:31] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[29-Jul-2011 20:38:39] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[29-Jul-2011 20:38:39] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/php_zip.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/php_zip.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[29-Jul-2011 20:38:39] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[29-Jul-2011 20:38:39] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[29-Jul-2011 20:38:49] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[29-Jul-2011 20:38:49] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/php_zip.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/php_zip.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[29-Jul-2011 20:38:49] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[29-Jul-2011 20:38:49] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[29-Jul-2011 20:39:20] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[29-Jul-2011 20:39:20] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/php_zip.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/php_zip.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[29-Jul-2011 20:39:20] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[29-Jul-2011 20:39:20] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[29-Jul-2011 20:40:38] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[29-Jul-2011 20:40:38] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/php_zip.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/php_zip.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[29-Jul-2011 20:40:38] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[29-Jul-2011 20:40:38] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[29-Jul-2011 20:41:31] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[29-Jul-2011 20:41:31] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/php_zip.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/php_zip.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[29-Jul-2011 20:41:31] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[29-Jul-2011 20:41:31] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[29-Jul-2011 20:42:05] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[29-Jul-2011 20:42:05] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/php_zip.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/php_zip.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[29-Jul-2011 20:42:05] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[29-Jul-2011 20:42:05] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[29-Jul-2011 20:42:21] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[29-Jul-2011 20:42:21] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/php_zip.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/php_zip.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[29-Jul-2011 20:42:21] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[29-Jul-2011 20:42:21] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[29-Jul-2011 20:42:30] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[29-Jul-2011 20:42:30] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/php_zip.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/php_zip.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[29-Jul-2011 20:42:30] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[29-Jul-2011 20:42:30] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[29-Jul-2011 20:47:12] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[29-Jul-2011 20:47:12] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/php_zip.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/php_zip.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[29-Jul-2011 20:47:12] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[29-Jul-2011 20:47:12] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[29-Jul-2011 20:47:34] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[29-Jul-2011 20:47:34] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/php_zip.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/php_zip.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[29-Jul-2011 20:47:34] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[29-Jul-2011 20:47:34] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[29-Jul-2011 20:52:57] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[29-Jul-2011 20:52:57] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/php_zip.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/php_zip.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[29-Jul-2011 20:52:57] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[29-Jul-2011 20:52:57] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[29-Jul-2011 20:52:58] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[29-Jul-2011 20:52:58] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/php_zip.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/php_zip.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[29-Jul-2011 20:52:58] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[29-Jul-2011 20:52:58] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[29-Jul-2011 20:54:05] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[29-Jul-2011 20:54:05] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/php_zip.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/php_zip.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[29-Jul-2011 20:54:05] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[29-Jul-2011 20:54:05] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[29-Jul-2011 20:59:59] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[29-Jul-2011 20:59:59] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/php_zip.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/php_zip.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[29-Jul-2011 20:59:59] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[29-Jul-2011 20:59:59] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[29-Jul-2011 21:00:00] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[29-Jul-2011 21:00:00] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/php_zip.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/php_zip.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[29-Jul-2011 21:00:00] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[29-Jul-2011 21:00:00] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[29-Jul-2011 21:00:22] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[29-Jul-2011 21:00:22] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/php_zip.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/php_zip.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[29-Jul-2011 21:00:22] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[29-Jul-2011 21:00:22] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[29-Jul-2011 21:01:55] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[29-Jul-2011 21:01:55] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/php_zip.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/php_zip.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[29-Jul-2011 21:01:55] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[29-Jul-2011 21:01:55] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[29-Jul-2011 21:01:56] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[29-Jul-2011 21:01:56] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/php_zip.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/php_zip.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[29-Jul-2011 21:01:56] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[29-Jul-2011 21:01:56] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[29-Jul-2011 21:02:15] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[29-Jul-2011 21:02:15] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/php_zip.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/php_zip.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[29-Jul-2011 21:02:15] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[29-Jul-2011 21:02:15] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[29-Jul-2011 21:02:15] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[29-Jul-2011 21:02:15] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/php_zip.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/php_zip.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[29-Jul-2011 21:02:15] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[29-Jul-2011 21:02:15] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[29-Jul-2011 21:02:25] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[29-Jul-2011 21:02:25] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/php_zip.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/php_zip.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[29-Jul-2011 21:02:25] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[29-Jul-2011 21:02:25] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[29-Jul-2011 21:02:25] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[29-Jul-2011 21:02:25] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/php_zip.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/php_zip.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[29-Jul-2011 21:02:25] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[29-Jul-2011 21:02:25] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[29-Jul-2011 21:04:37] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[29-Jul-2011 21:04:37] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/php_zip.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/php_zip.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[29-Jul-2011 21:04:37] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[29-Jul-2011 21:04:37] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[29-Jul-2011 21:04:37] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[29-Jul-2011 21:04:37] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/php_zip.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/php_zip.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[29-Jul-2011 21:04:37] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[29-Jul-2011 21:04:37] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[29-Jul-2011 21:04:53] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[29-Jul-2011 21:04:53] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/php_zip.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/php_zip.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[29-Jul-2011 21:04:53] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[29-Jul-2011 21:04:53] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[29-Jul-2011 21:04:53] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[29-Jul-2011 21:04:53] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/php_zip.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/php_zip.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[29-Jul-2011 21:04:53] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[29-Jul-2011 21:04:53] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[29-Jul-2011 21:05:12] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[29-Jul-2011 21:05:12] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/php_zip.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/php_zip.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[29-Jul-2011 21:05:12] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[29-Jul-2011 21:05:12] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[29-Jul-2011 21:05:12] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[29-Jul-2011 21:05:12] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/php_zip.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/php_zip.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[29-Jul-2011 21:05:12] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[29-Jul-2011 21:05:12] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[29-Jul-2011 21:05:19] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[29-Jul-2011 21:05:19] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/php_zip.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/php_zip.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[29-Jul-2011 21:05:19] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[29-Jul-2011 21:05:19] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[29-Jul-2011 21:05:19] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[29-Jul-2011 21:05:19] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/php_zip.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/php_zip.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[29-Jul-2011 21:05:19] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[29-Jul-2011 21:05:19] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[29-Jul-2011 21:07:40] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[29-Jul-2011 21:07:40] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/php_zip.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/php_zip.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[29-Jul-2011 21:07:40] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[29-Jul-2011 21:07:40] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[29-Jul-2011 21:07:40] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[29-Jul-2011 21:07:40] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/php_zip.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/php_zip.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[29-Jul-2011 21:07:40] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[29-Jul-2011 21:07:40] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[29-Jul-2011 21:07:45] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[29-Jul-2011 21:07:45] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/php_zip.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/php_zip.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[29-Jul-2011 21:07:45] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[29-Jul-2011 21:07:45] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[29-Jul-2011 21:07:45] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[29-Jul-2011 21:07:45] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/php_zip.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/php_zip.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[29-Jul-2011 21:07:45] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[29-Jul-2011 21:07:45] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[29-Jul-2011 21:07:53] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[29-Jul-2011 21:07:53] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/php_zip.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/php_zip.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[29-Jul-2011 21:07:53] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[29-Jul-2011 21:07:53] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[29-Jul-2011 21:07:53] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[29-Jul-2011 21:07:53] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/php_zip.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/php_zip.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[29-Jul-2011 21:07:53] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[29-Jul-2011 21:07:53] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[29-Jul-2011 23:30:38] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[29-Jul-2011 23:30:38] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/php_zip.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/php_zip.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[29-Jul-2011 23:30:38] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[29-Jul-2011 23:30:38] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[29-Jul-2011 23:30:38] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[29-Jul-2011 23:30:38] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/php_zip.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/php_zip.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[29-Jul-2011 23:30:38] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[29-Jul-2011 23:30:38] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0

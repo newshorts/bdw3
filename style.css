@@ -1,0 +1,782 @@
+/*
+CSS for the demo: Recreating the Nikebetterworld.com Parallax Demo
+Demo: Recreating the Nikebetterworld.com Parallax Demo
+Author: Ian Lunn
+Author URL: http://www.ianlunn.co.uk/
+Demo URL: http://www.ianlunn.co.uk/demos/recreate-nikebetterworld-parallax/
+Tutorial URL: http://www.ianlunn.co.uk/blog/code-tutorials/recreate-nikebetterworld-parallax/
+
+License: http://creativecommons.org/licenses/by-sa/3.0/ (Attribution Share Alike). Please attribute work to Ian Lunn simply by leaving these comments in the source code or if you'd prefer, place a link on your website to http://www.ianlunn.co.uk/.
+
+Dual licensed under the MIT and GPL licenses:
+http://www.opensource.org/licenses/mit-license.php
+http://www.gnu.org/licenses/gpl.html
+*/
+
+@charset "utf-8";
+/* CSS Document */
+
+body{
+	margin: 0;
+	min-width: 1024px;
+	padding: 0;
+}
+
+p{
+	margin: 0 0 20px 0;	
+}
+
+p, ul{
+	font-family:"Proxima Nova Light", 'Helvetica Neue', Arial, Helvetica, sans-serif;
+	font-size-adjust:0.488;
+	font-style:normal;
+	font-size: 16px;
+	font-weight: 100;	
+}
+
+ul {
+	margin: 0;
+	padding: 0;
+}
+
+li {
+	margin: 0;
+	padding: 0;
+}
+
+img{
+	border: 0;
+}
+
+h1, #pixels{
+	font-family:"Museo 900", Verdana, serif;
+	font-size-adjust:0.40;
+	font-weight:700;
+	font-style:normal;
+}
+
+h2{
+	font-family:"Beau Sans Pro Book", Verdana, sans-serif;
+	font-size-adjust:0.531;
+	font-weight:500;
+	font-style:normal;
+}
+
+a {
+	color: white;
+	text-decoration: none;
+}
+
+a:active, a:hover {
+	border: none;
+	text-decoration: underline;
+}
+
+a:active {
+	position: relative;
+	top: 1px;
+}
+
+nav h1, #pixels{
+	color: #48941A;
+}
+
+.float-left{
+	float: left;	
+	margin: 0 0 0 20px;
+}
+
+.float-right{
+	float: right;
+	margin: 0;
+	
+}
+
+.center{
+	font-size: 2.5em;
+	padding: 80px 0;
+	text-align: center;
+}
+
+nav, #intro, #second{
+	width: 100%;
+}
+
+nav{
+	background: white;
+}
+
+#intro{
+	background:url(images/bg-c3v2.gif) 0 -60.9px no-repeat scroll;
+	color: white;
+	height: 900px;
+	margin: 0;
+	width: 1200px;
+	position: relative;
+}
+
+#intro .story {
+	position: absolute;
+	top: 340px;
+	left: 200px;
+	width: 899px;
+	height: 55px;
+	background-color: white;
+	padding: 5px;
+}
+
+#logo {
+	background: url(images/bdw-logo.png) scroll no-repeat;
+	position: absolute;
+	top: 100px;
+	right: 50px;
+}
+
+#logo a {
+	display: block;
+	width: 304px;
+	height: 30px;
+}
+
+#intro .story p {
+	color: black;
+	font-size: 16px;
+	font-weight: 200;
+}
+
+#facebook {
+	position: absolute;
+	left: 1125px;
+	top: 410px;
+}
+
+#twitter {
+	position: absolute;
+	left: 1080px;
+	top: 410px;
+}
+
+
+/*-----------------------------------------------------------------------------------------------*/
+/*                                         NAV  STYLES                                           */
+/*-----------------------------------------------------------------------------------------------*/
+
+
+nav {
+/* 	padding-left: 20px; */
+	min-width: 1200px;
+}
+
+nav ul {
+	list-style-type: none;
+	color: white;
+}
+
+nav li {
+	float: left;
+	position: relative;
+	min-width: 100px;
+	width: 8.33%;
+	text-align: center;
+}
+
+nav li:last-child {
+	margin-right: 0;
+}
+
+nav a {
+	color: black;
+	width: 100px;
+	height: 100px;
+	display: block;
+
+    z-index: 9999;
+    background-image: url(images/nav-sprite.png);
+
+}
+
+nav a:hover {
+	background-image: url(images/nav-sprite.png);
+}
+
+
+nav .hover {
+	margin-top: 5px;
+	width: 150px;
+	height: 165px;
+	position: absolute;
+	bottom: -200px;
+	z-index:999;
+	opacity: 0;
+	background-image: url(images/nav-sprite.png);
+	-moz-transition: opacity .25s linear;
+	-webkit-transition: opacity .25s linear;
+	-o-transition: opacity .25s linear;
+	transition: opacity .25s linear;
+}
+
+nav a:hover .hover {
+	opacity: 1;
+	bottom: 100px;
+}
+
+nav li.left .hover {
+	left: 10px;
+}
+
+nav li.right .hover {
+	right: 10px;
+}
+
+nav .patrick-active a, nav .charlotte-active a, nav .fouhy-active a, nav .laura-active a
+nav .pedro-active a, nav .josh-active a, nav .max-active a, nav .megan-active a,
+nav .mike-active a, nav .jon-active a, nav .lauren-active a, nav .rj-active a, 
+nav .patrick a img {
+	background-image: url(images/nav-sprite.png);
+}
+
+
+
+nav .charlotte a {background-position: -900px 0 ;}
+
+nav .charlotte a:hover {background-position:  -900px -101px;}
+
+nav .charlotte-active a {background-position: -900px -101px;}
+
+nav .charlotte .hover {background-position: -1200px 0; }
+
+
+nav .fouhy a {background-position: -1000px 0px ;}
+
+nav .fouhy a:hover {background-position: -1000px 101px ;}
+
+nav .fouhy-active a {background-position: -1000px 101px ;}
+
+nav .fouhy .hover {background-position: -1350px 0 ;}
+
+
+nav .laura a {background-position: -600px 0 ;}
+
+nav .laura a:hover {background-position: -600px -101px ;}
+
+nav .laura-active a {background-position: -600px -101px ;}
+
+nav .laura .hover {background-position: -1500px 0 ;}
+
+
+nav .pedro a {background-position: -500px 0 ;}
+
+nav .pedro a:hover {background-position: -500px -101px ;}
+
+nav .pedro-active a {background-position: -500px -101px ;}
+
+nav .pedro .hover {background-position: -1650px 0 ;}
+
+
+nav .josh a {background-position: -700px 0 ;}
+
+nav .josh a:hover {background-position: -700px -101px ;}
+
+nav .josh-active a {background-position: -700px -101px ;}
+
+nav .josh .hover {background-position: -1800px 0 ;}
+
+
+nav .max a {background-position: -300px 0 ;}
+
+nav .max a:hover {background-position: -300px -101px ;}
+
+nav .max-active a {background-position: -300px -101px ;}
+
+nav .max .hover {background-position: -1950px 0 ;}
+
+
+nav .megan a {background-position: -200px 0 ;}
+
+nav .megan a:hover {background-position: -200px -101px ; }
+
+nav .megan-active a {background-position: -200px -101px ;}
+
+nav .megan .hover {background-position: -2105px 0 ;}
+
+
+nav .mike a {background-position: -100px 0 ;}
+
+nav .mike a:hover {background-position: -100px -101px ;}
+
+nav .mike-active a {background-position: -100px -101px ;}
+
+nav .mike .hover {background-position: -2255px 0 ;}
+
+
+nav .jon a {background-position: -800px 0 ;}
+
+nav .jon a:hover {background-position: -800px -101px ; }
+
+nav .jon-active a {background-position: -800px -101px ;}
+
+nav .jon .hover {background-position: -2405px 0 ;}
+
+
+nav .lauren a {background-position: -400px 0 ;}
+
+nav .lauren a:hover {background-position: -400px -101px ;}
+
+nav .lauren-active a {background-position: -400px -101px ;}
+
+nav .lauren .hover {background-position: -2555px 0 ;}
+
+
+nav .rj a {background-position: -1100px 0px ;}
+
+nav .rj a:hover {background-position: -1100px -101px ;}
+
+nav .rj-active a {background-position: -1100px -101px ;}
+
+nav .rj .hover {background-position: -2705px 0px ;}
+
+
+nav .patrick a {background-position: 0px 0px ;}
+
+nav .patrick a:hover {background-position: 0 -101px;}
+
+nav .patrick-active a {background-position: 0px -101px;}
+
+nav .patrick .hover {background-position: -2857px 0px ;}
+
+/*-----------------------------------------------------------------------------------------------*/
+/*                                     CONTENT  STYLES                                           */
+/*-----------------------------------------------------------------------------------------------*/
+
+
+
+#fifth{
+	background: #ccc;
+	height: 1000px;
+	margin: 0 auto;
+	padding: 40px 0 0 0;
+}
+
+.story{
+	margin: 0 auto;
+	min-width: 980px;
+	width: 980px;
+}
+
+.story .float-right{
+	padding: 40px;
+	position: relative;
+	width: 310px;
+	top: 115px;
+	right: -24px;
+	z-index: 200;	
+}
+
+/*-----------------------------------------------------------------------------------------------*/
+/*                                         BLURB   STYLES                                        */
+/*-----------------------------------------------------------------------------------------------*/
+
+.story .float-right h2 {
+	background: url(images/blurb/title.png) scroll no-repeat;
+	width: 480px;
+	height: 116px;
+	padding: 25px 30px 5px 30px;
+	font-size: 48px;
+	font-weight: bold;
+	margin: 0;
+	text-transform:uppercase;
+	line-height: 44px;
+}
+
+.story .float-right h2.darker {
+	background: url(images/blurb/title.png)  scroll no-repeat;
+}
+
+.story .float-right article {
+	background: url(images/blurb/body-bg.png) scroll repeat;
+	padding: 43px 50px;
+	margin-top: 45px;
+	width: 440px;
+	font-size: 24px;
+}
+
+.story .float-right ul {
+	background: url(images/blurb/links-bg.png) scroll repeat;
+	padding: 13px 50px;
+	margin: 0;
+	font-size: 18px;
+	text-transform: lowercase;
+	min-width: 440px;
+	font-weight: normal;
+}
+
+.story .float-right ul li {
+	float: left;
+	margin-right: 30px;
+	list-style: none;
+}
+
+.story .float-right ul li a {
+	
+}
+
+/* MIKES STYLES */
+
+
+/* the rest of the tests */
+
+
+
+
+
+div.story {
+/* 	overflow: hidden; */
+}
+
+
+
+/*-----------------------------------------------------------------------------------------------*/
+/*                                         CUSTOM  STYLES                                        */
+/*-----------------------------------------------------------------------------------------------*/
+
+/* header */
+
+nav, #sidebar {
+/* 	background: url(images/bg-head.png) scroll repeat; */
+	background: transparent;
+	position: fixed;
+	z-index: 300;
+	bottom:0;
+	left: 0;
+}
+
+
+
+#sidebar {
+	width: 220px;
+	height: 100%;
+	top: 130px;
+	left: 0;
+	padding: 15px;
+	color: white;
+	display: none;
+}
+
+/*-----------------------------------------------------------------------------------------------*/
+/*                                         STUDENT STYLES                                        */
+/*-----------------------------------------------------------------------------------------------*/
+
+#loader {
+/* 	background: url(images/patrick/patrick_back.jpg) 50% 0 no-repeat fixed; */
+	color: white;
+	height: 1300px;
+	margin: 0 auto;
+	overflow: hidden;
+	padding: 0;
+}
+
+#patrick {
+	background: url(images/patrick/patrick_back.jpg) 50% 0 no-repeat fixed;
+	color: white;
+	height: 1300px;
+	margin: 0 auto;
+	overflow: hidden;
+	padding: 0;
+}
+
+#patrick .midground {
+	background: url(images/patrick/patrick_mid.png) 50% 0 no-repeat fixed;
+	height: 1500px;
+	margin: 0 auto;
+	padding: 0;
+	position: absolute;
+	width: 900px;
+	z-index: 200;
+}
+
+#rj {
+	background: url(images/rj/rj_back.jpg) 50% 0 no-repeat fixed;
+	color: white;
+	height: 1300px;
+	margin: 0 auto;
+	overflow: hidden;
+	padding: 0;
+}
+
+#rj .midground {
+	background: url(images/blank/blank_mid.png) 50% 0 no-repeat fixed;
+	height: 1000px;
+	margin: 0 auto;
+	padding: 0;
+	position: absolute;
+	width: 900px;
+	z-index: 200;
+}
+
+#fouhy {
+	background: url(images/fouhy/fouhy_back.jpg) 50% 0 no-repeat fixed;
+	color: white;
+	height: 1300px;
+	margin: 0 auto;
+	overflow: hidden;
+	padding: 0;
+}
+
+#fouhy .midground {
+	background: url(images/fouhy/fouhy_mid.png) 50% 500px no-repeat fixed;
+	height: 1500px;
+	margin: 0 auto;
+	padding: 0;
+	position: absolute;
+	width: 900px;
+	z-index: 200;
+}
+
+#laura {
+	background: url(images/laura/laura_back.jpg) 50% 0 no-repeat fixed;
+	color: white;
+	height: 1300px;
+	margin: 0 auto;
+	overflow: hidden;
+	padding: 0;
+}
+
+#laura .midground {
+	background: url(images/laura/laura_mid.png) 50% 0 no-repeat fixed;
+	height: 1000px;
+	margin: 0 auto;
+	padding: 0;
+	position: absolute;
+	width: 900px;
+	z-index: 200;
+}
+
+#josh {
+	background: url(images/josh/josh_back.jpg) 50% 0 no-repeat fixed;
+	color: white;
+	height: 1300px;
+	margin: 0 auto;
+	overflow: hidden;
+	padding: 0;
+}
+
+#josh .midground {
+	background: url(images/josh/josh_mid.png) 50% 0 no-repeat fixed;
+	height: 1500px;
+	margin: 0 auto;
+	padding: 0;
+	position: absolute;
+	width: 900px;
+	z-index: 200;
+}
+
+#max {
+	background: url(images/max/max_back.jpg) 50% 0 no-repeat fixed;
+	color: white;
+	height: 1300px;
+	margin: 0 auto;
+	overflow: hidden;
+	padding: 0;
+}
+
+#max .midground {
+	background: url(images/max/max_mid.png) 50% 0 no-repeat fixed;
+	height: 1500px;
+	margin: 0 auto;
+	padding: 0;
+	position: absolute;
+	width: 900px;
+	z-index: 200;
+}
+
+#charlotte {
+	background: url(images/charlotte/charlotte_back.png) 50% 0 no-repeat fixed;
+	color: white;
+	height: 1300px;
+	margin: 0 auto;
+	overflow: hidden;
+	padding: 0;
+}
+
+#charlotte .midground {
+	background: url(images/charlotte/charlotte_mid.png) 50% 0 no-repeat fixed;
+	height: 1500px;
+	margin: 0 auto;
+	padding: 0;
+	position: absolute;
+	width: 900px;
+	z-index: 200;
+}
+
+#mike {
+	background: black 50% 0 no-repeat fixed;
+	color: white;
+	height: 1300px;
+	margin: 0 auto;
+	overflow: hidden;
+	padding: 0;
+}
+
+#mike .story {
+	float: left;
+}
+
+#mike video {
+	margin: 0 auto;
+	padding: 0;
+	position: absolute;
+	width:   100%;
+	z-index: 200;
+	overflow: hidden;
+}
+
+#mike canvas:nth-of-type(1) {
+	position: absolute;
+	z-index: 253;
+	margin: 0;
+	padding: 0;
+
+}
+
+#mike canvas:nth-of-type(2) {
+	position: absolute;
+	z-index: 252;
+	margin: 445px 0 0 55%;
+	padding: 0;
+
+}
+
+#mike a canvas:nth-of-type(1) {
+	position: absolute;
+	z-index: 252;
+	margin: 580px 0 0 71%;
+	padding: 0;
+
+}
+
+#megan {
+	background: url(images/megan/megan_back.jpg) 50% 0 no-repeat fixed;
+	color: white;
+	height: 1300px;
+	margin: 0 auto;
+	overflow: hidden;
+	padding: 0;
+}
+
+#megan .midground {
+	background: url(images/megan/megan_mid.png) 50% 0 no-repeat fixed;
+	height: 1500px;
+	margin: 0 auto;
+	padding: 0;
+	position: absolute;
+	width: 900px;
+	z-index: 200;
+}
+
+#lauren {
+	background: url(images/lauren/lauren_back.jpg) 50% 0 no-repeat fixed;
+	color: white;
+	height: 1300px;
+	margin: 0 auto;
+	overflow: hidden;
+	padding: 0;
+}
+
+#lauren .midground {
+	background: url(images/lauren/lauren_mid.png) 50% 0 no-repeat fixed;
+	height: 1500px;
+	margin: 0 auto;
+	padding: 0;
+	position: absolute;
+	width: 900px;
+	z-index: 200;
+}
+
+#pedro {
+	background: url(images/pedro/pedro_back.jpg) 50% 0 no-repeat fixed;
+	color: white;
+	height: 1300px;
+	margin: 0 auto;
+	overflow: hidden;
+	padding: 0;
+}
+
+#pedro .midground {
+	background: url(images/pedro/pedro_mid.png) 50% 0 no-repeat fixed;
+	height: 1500px;
+	margin: 0 auto;
+	padding: 0;
+	position: absolute;
+	width: 900px;
+	z-index: 200;
+}
+
+#jon {
+	background: url(images/jon/jon_back.jpg) 50% 0 no-repeat fixed;
+	color: white;
+	height: 1300px;
+	margin: 0 auto;
+	overflow: hidden;
+	padding: 0;
+}
+
+#jon .midground {
+	background: url(images/jon/jon_mid.png) 50% 0 no-repeat fixed;
+	height: 1500px;
+	margin: 0 auto;
+	padding: 0;
+	position: absolute;
+	width: 900px;
+	z-index: 200;
+}
+
+.story > .midground {left: 0px;}
+
+.twitter, .facebook, 
+.linkedin, .plus, 
+.portfolio, .email, .video {
+	display: block;
+	width: 40px;
+	height: 39px;
+}
+
+.twitter {
+	background: url(images/twitter.png) scroll no-repeat;
+}
+
+.facebook {
+	background: url(images/facebook.png) scroll no-repeat;
+}
+
+.linkedin {
+
+}
+
+.plus {
+
+}
+
+.portfolio {
+	
+}
+
+.email {
+
+}
+
+.video {
+	
+}
+
+
+/*-----------------------------------------------------------------------------------------------*/
+/*                                         UTILITY  CLASSES                                      */
+/*-----------------------------------------------------------------------------------------------*/
+
+.hidden {
+	display: none;
+}
+
+.clear {
+	clear: both;
+}
