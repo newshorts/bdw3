@@ -131,18 +131,20 @@ $(window).load(function(){
 		var mikeVideo = document.getElementById("mikeVideo");
 		
 		$(mikeVideo).bind("timeupdate", function (event) {
+                    
+                        var tracking = Math.floor(event.originalEvent.currentTarget.currentTime);
 		
-			console.debug(Math.floor(event.originalEvent.currentTarget.currentTime));
+			//console.debug(Math.floor(event.originalEvent.currentTarget.currentTime));
 			
-			if(Math.floor(event.originalEvent.currentTarget.currentTime) == 1) {
+			if(tracking == 1) {
 				mike();
 			}
 			
-			if(Math.floor(event.originalEvent.currentTarget.currentTime) == 9) {
+			if(tracking == 9) {
 				mike("#000");
 			}
 			
-			if(Math.floor(event.originalEvent.currentTarget.currentTime) == 33) {
+			if(tracking == 33) {
 				mike("#fff");
 			}
 		});
