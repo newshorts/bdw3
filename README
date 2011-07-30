@@ -1,0 +1,20 @@
+#####################################################################
+###				BDW3 Student Site		  ###
+#####################################################################
+
+This is the student site for Boulder Digital Works Students Class 3.
+
+The master represents a stable main site with an unfinished but
+stable mobile site. The original has been browser tested in IE 7+, 
+chrome (latest version), Safari (latest version), and FF (latest).
+
+NEEDS:
+
+1	finish mobile site
+2	fix mike's page to gracefully degrade into images or text if
+	no canvas tag.
+3	fix lighthouse bugs
+4	dynamically styled loading of initial page
+5	clean code
+6	minify
+7	sprite for the blurb
