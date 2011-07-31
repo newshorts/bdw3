@@ -1,12 +1,13 @@
 /*
-CSS for the demo: Recreating the Nikebetterworld.com Parallax Demo
-Demo: Recreating the Nikebetterworld.com Parallax Demo
+CSS Inspired By: Recreating the Nikebetterworld.com Parallax Demo
 Author: Ian Lunn
-Author URL: http://www.ianlunn.co.uk/
-Demo URL: http://www.ianlunn.co.uk/demos/recreate-nikebetterworld-parallax/
 Tutorial URL: http://www.ianlunn.co.uk/blog/code-tutorials/recreate-nikebetterworld-parallax/
 
-License: http://creativecommons.org/licenses/by-sa/3.0/ (Attribution Share Alike). Please attribute work to Ian Lunn simply by leaving these comments in the source code or if you'd prefer, place a link on your website to http://www.ianlunn.co.uk/.
+Author: Michael Newell
+@newshorts
+http://iwearshorts.com
+
+License: http://creativecommons.org/licenses/by-sa/3.0/ (Attribution Share Alike). Please attribute work to Michael Newell simply by leaving these comments in the source code or if you'd prefer, place a link to his website http://iwearshorts.com/.
 
 Dual licensed under the MIT and GPL licenses:
 http://www.opensource.org/licenses/mit-license.php
@@ -98,24 +99,25 @@ nav h1, #pixels{
 	text-align: center;
 }
 
-nav, #intro, #second{
+nav, #intro {
 	width: 100%;
 }
 
-nav{
-	background: white;
-}
+/*-----------------------------------------------------------------------------------------------*/
+/*                                      HEADER  STYLES                                           */
+/*-----------------------------------------------------------------------------------------------*/
 
-section{
+header {
 	background:url(images/bg-c3v2.gif) 0 -60.9px no-repeat scroll;
 	color: white;
-	height: 900px;
-	margin: 0;
+	height: 100%;
+        min-height: 740px;
+	margin: 0 auto;
 	width: 1200px;
 	position: relative;
 }
 
-section article {
+header article {
         display: block;
 	position: absolute;
 	top: 340px;
@@ -139,7 +141,7 @@ section article {
 	height: 30px;
 }
 
-section article p {
+header article p {
 	color: black;
 	font-size: 16px;
 	font-weight: 200;
@@ -164,8 +166,12 @@ section article p {
 
 
 nav {
-/* 	padding-left: 20px; */
-	min-width: 1200px;
+/*	min-width: 1200px;*/
+        background: transparent;
+	position: fixed;
+	z-index: 300;
+	bottom:0;
+	left: 0;
 }
 
 nav ul {
@@ -176,9 +182,10 @@ nav ul {
 nav li {
 	float: left;
 	position: relative;
-	min-width: 100px;
+/*	min-width: 100px;*/
 	width: 8.33%;
 	text-align: center;
+        display:none;
 }
 
 nav li:last-child {
@@ -186,14 +193,12 @@ nav li:last-child {
 }
 
 nav a {
-	color: black;
-	width: 100px;
-	height: 100px;
-	display: block;
-
+    color: black;
+    width: 100px;
+    height: 100px;
+    display: block;
     z-index: 9999;
     background-image: url(images/nav-sprite.png);
-
 }
 
 nav a:hover {
@@ -236,127 +241,82 @@ nav .patrick a img {
 	background-image: url(images/nav-sprite.png);
 }
 
+nav .charlotte a {          background-position: -900px 0 ;}
+nav .charlotte a:hover {    background-position:  -900px -101px;}
+nav .charlotte-active a {   background-position: -900px -101px;}
+nav .charlotte .hover {     background-position: -1200px 0; }
 
+nav .fouhy a {              background-position: -1000px 0px ;}
+nav .fouhy a:hover {        background-position: -1000px 101px ;}
+nav .fouhy-active a {       background-position: -1000px 101px ;}
+nav .fouhy .hover {         background-position: -1350px 0 ;}
 
-nav .charlotte a {background-position: -900px 0 ;}
+nav .laura a {              background-position: -600px 0 ;}
+nav .laura a:hover {        background-position: -600px -101px ;}
+nav .laura-active a {       background-position: -600px -101px ;}
+nav .laura .hover {         background-position: -1500px 0 ;}
 
-nav .charlotte a:hover {background-position:  -900px -101px;}
+nav .pedro a {              background-position: -500px 0 ;}
+nav .pedro a:hover {        background-position: -500px -101px ;}
+nav .pedro-active a {       background-position: -500px -101px ;}
+nav .pedro .hover {         background-position: -1650px 0 ;}
 
-nav .charlotte-active a {background-position: -900px -101px;}
+nav .josh a {               background-position: -700px 0 ;}
+nav .josh a:hover {         background-position: -700px -101px ;}
+nav .josh-active a {        background-position: -700px -101px ;}
+nav .josh .hover {          background-position: -1800px 0 ;}
 
-nav .charlotte .hover {background-position: -1200px 0; }
+nav .max a {                background-position: -300px 0 ;}
+nav .max a:hover {          background-position: -300px -101px ;}
+nav .max-active a {         background-position: -300px -101px ;}
+nav .max .hover {           background-position: -1950px 0 ;}
 
+nav .megan a {              background-position: -200px 0 ;}
+nav .megan a:hover {        background-position: -200px -101px ; }
+nav .megan-active a {       background-position: -200px -101px ;}
+nav .megan .hover {         background-position: -2105px 0 ;}
 
-nav .fouhy a {background-position: -1000px 0px ;}
+nav .mike a {               background-position: -100px 0 ;}
+nav .mike a:hover {         background-position: -100px -101px ;}
+nav .mike-active a {        background-position: -100px -101px ;}
+nav .mike .hover {          background-position: -2255px 0 ;}
 
-nav .fouhy a:hover {background-position: -1000px 101px ;}
+nav .jon a {                background-position: -800px 0 ;}
+nav .jon a:hover {          background-position: -800px -101px ; }
+nav .jon-active a {         background-position: -800px -101px ;}
+nav .jon .hover {           background-position: -2405px 0 ;}
 
-nav .fouhy-active a {background-position: -1000px 101px ;}
+nav .lauren a {             background-position: -400px 0 ;}
+nav .lauren a:hover {       background-position: -400px -101px ;}
+nav .lauren-active a {      background-position: -400px -101px ;}
+nav .lauren .hover {        background-position: -2555px 0 ;}
 
-nav .fouhy .hover {background-position: -1350px 0 ;}
+nav .rj a {                 background-position: -1100px 0px ;}
+nav .rj a:hover {           background-position: -1100px -101px ;}
+nav .rj-active a {          background-position: -1100px -101px ;}
+nav .rj .hover {            background-position: -2705px 0px ;}
 
+nav .patrick a {            background-position: 0px 0px ;}
+nav .patrick a:hover {      background-position: 0 -101px;}
+nav .patrick-active a {     background-position: 0px -101px;}
+nav .patrick .hover {       background-position: -2857px 0px ;}
 
-nav .laura a {background-position: -600px 0 ;}
-
-nav .laura a:hover {background-position: -600px -101px ;}
-
-nav .laura-active a {background-position: -600px -101px ;}
-
-nav .laura .hover {background-position: -1500px 0 ;}
-
-
-nav .pedro a {background-position: -500px 0 ;}
-
-nav .pedro a:hover {background-position: -500px -101px ;}
-
-nav .pedro-active a {background-position: -500px -101px ;}
-
-nav .pedro .hover {background-position: -1650px 0 ;}
-
-
-nav .josh a {background-position: -700px 0 ;}
-
-nav .josh a:hover {background-position: -700px -101px ;}
-
-nav .josh-active a {background-position: -700px -101px ;}
-
-nav .josh .hover {background-position: -1800px 0 ;}
-
-
-nav .max a {background-position: -300px 0 ;}
-
-nav .max a:hover {background-position: -300px -101px ;}
-
-nav .max-active a {background-position: -300px -101px ;}
-
-nav .max .hover {background-position: -1950px 0 ;}
-
-
-nav .megan a {background-position: -200px 0 ;}
-
-nav .megan a:hover {background-position: -200px -101px ; }
-
-nav .megan-active a {background-position: -200px -101px ;}
-
-nav .megan .hover {background-position: -2105px 0 ;}
-
-
-nav .mike a {background-position: -100px 0 ;}
-
-nav .mike a:hover {background-position: -100px -101px ;}
-
-nav .mike-active a {background-position: -100px -101px ;}
-
-nav .mike .hover {background-position: -2255px 0 ;}
-
-
-nav .jon a {background-position: -800px 0 ;}
-
-nav .jon a:hover {background-position: -800px -101px ; }
-
-nav .jon-active a {background-position: -800px -101px ;}
-
-nav .jon .hover {background-position: -2405px 0 ;}
-
-
-nav .lauren a {background-position: -400px 0 ;}
-
-nav .lauren a:hover {background-position: -400px -101px ;}
-
-nav .lauren-active a {background-position: -400px -101px ;}
-
-nav .lauren .hover {background-position: -2555px 0 ;}
-
-
-nav .rj a {background-position: -1100px 0px ;}
-
-nav .rj a:hover {background-position: -1100px -101px ;}
-
-nav .rj-active a {background-position: -1100px -101px ;}
-
-nav .rj .hover {background-position: -2705px 0px ;}
-
-
-nav .patrick a {background-position: 0px 0px ;}
-
-nav .patrick a:hover {background-position: 0 -101px;}
-
-nav .patrick-active a {background-position: 0px -101px;}
-
-nav .patrick .hover {background-position: -2857px 0px ;}
 
 /*-----------------------------------------------------------------------------------------------*/
 /*                                     CONTENT  STYLES                                           */
 /*-----------------------------------------------------------------------------------------------*/
 
-
-
-#fifth{
-	background: #ccc;
-	height: 1000px;
+#loader {
+	color: white;
+	height: 1px;
 	margin: 0 auto;
-	padding: 40px 0 0 0;
+	overflow: hidden;
+	padding: 0;
 }
+
+/*-----------------------------------------------------------------------------------------------*/
+/*                                         BLURB   STYLES                                        */
+/*-----------------------------------------------------------------------------------------------*/
 
 .story{
 	margin: 0 auto;
@@ -372,10 +332,6 @@ nav .patrick .hover {background-position: -2857px 0px ;}
 	right: -24px;
 	z-index: 200;	
 }
-
-/*-----------------------------------------------------------------------------------------------*/
-/*                                         BLURB   STYLES                                        */
-/*-----------------------------------------------------------------------------------------------*/
 
 .story .float-right h2 {
 	background: url(images/blurb/title.png) scroll no-repeat;
@@ -421,60 +377,9 @@ nav .patrick .hover {background-position: -2857px 0px ;}
 	
 }
 
-/* MIKES STYLES */
-
-
-/* the rest of the tests */
-
-
-
-
-
-div.story {
-/* 	overflow: hidden; */
-}
-
-
-
-/*-----------------------------------------------------------------------------------------------*/
-/*                                         CUSTOM  STYLES                                        */
-/*-----------------------------------------------------------------------------------------------*/
-
-/* header */
-
-nav, #sidebar {
-/* 	background: url(images/bg-head.png) scroll repeat; */
-	background: transparent;
-	position: fixed;
-	z-index: 300;
-	bottom:0;
-	left: 0;
-}
-
-
-
-#sidebar {
-	width: 220px;
-	height: 100%;
-	top: 130px;
-	left: 0;
-	padding: 15px;
-	color: white;
-	display: none;
-}
-
 /*-----------------------------------------------------------------------------------------------*/
 /*                                         STUDENT STYLES                                        */
 /*-----------------------------------------------------------------------------------------------*/
-
-#loader {
-/* 	background: url(images/patrick/patrick_back.jpg) 50% 0 no-repeat fixed; */
-	color: white;
-	height: 1300px;
-	margin: 0 auto;
-	overflow: hidden;
-	padding: 0;
-}
 
 #patrick {
 	background: url(images/patrick/patrick_back.jpg) 50% 0 no-repeat fixed;
@@ -618,9 +523,7 @@ nav, #sidebar {
 	padding: 0;
 }
 
-#mike .story {
-	float: left;
-}
+#mike .story { float: left; }
 
 #mike video {
 	margin: 0 auto;
@@ -631,29 +534,10 @@ nav, #sidebar {
 	overflow: hidden;
 }
 
-#mike canvas:nth-of-type(1) {
-	position: absolute;
-	z-index: 253;
-	margin: 0;
-	padding: 0;
-
-}
-
-#mike canvas:nth-of-type(2) {
-	position: absolute;
-	z-index: 252;
-	margin: 435px 0 0 55%;
-	padding: 0;
-
-}
-
-#mike a canvas:nth-of-type(1) {
-	position: absolute;
-	z-index: 252;
-	margin: 580px 0 0 71%;
-	padding: 0;
-
-}
+#mike canvas {position: absolute; z-index: 252; padding: 0; }
+#mike canvas:nth-of-type(1) { margin: 0; }
+#mike canvas:nth-of-type(2) { margin: 435px 0 0 55%; }
+#mike a canvas:nth-of-type(1) { margin: 580px 0 0 71%; }
 
 #mike article {
     color: black;
@@ -664,9 +548,12 @@ nav, #sidebar {
     text-align: center;
 }
 
-#mike article p {
-    font-size: 16px;
+#mike article a {
+    color: black;
+    font-weight: bold;
 }
+
+#mike article p { font-size: 16px; }
 
 #megan {
 	background: url(images/megan/megan_back.jpg) 50% 0 no-repeat fixed;
@@ -760,26 +647,6 @@ nav, #sidebar {
 
 .facebook {
 	background: url(images/facebook.png) scroll no-repeat;
-}
-
-.linkedin {
-
-}
-
-.plus {
-
-}
-
-.portfolio {
-	
-}
-
-.email {
-
-}
-
-.video {
-	
 }
 
 

@@ -50,11 +50,11 @@ p {
 }
 
 /* header */
-div#header {
+header {
 	margin: 0 auto;
 }
 
-div#header h1 {
+header h1 {
 	background: url('img/c3_logo_200.jpg') transparent top left no-repeat;
 	height: 150px;
 	text-indent: -999em;
