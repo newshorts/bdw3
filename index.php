@@ -93,18 +93,16 @@
     	</ul>
 </nav> <!--#header-->
 
-<div id="intro">
-	<div id="logo">
-		<a href="http://bdw.colorado.edu" title="Boulder Digital Works">&nbsp;</a>
-	</div>
-	<div class="story blurb">
-		
+<section>
+    <div id="logo">
+            <a href="http://bdw.colorado.edu" title="Boulder Digital Works">&nbsp;</a>
+    </div>
+    <article>
         <p>C3 is the third installment of the Boulder Digital Works experience. We're a collection of multi-talented individuals from many different backgrounds who've come together to lead in digital innovation. We're hybrids that fuse creativity, technical virtuosity, and an entrepreneurial mindset to solve problems. Collaboration is our specialty, and we take pride in our multi-layered approach to creative problem solving.</p>
-
-    </div> <!--.story-->
+    </article>
     <a id="facebook" href="#twitterURL"><img src="images/facebook.png" alt="Facebook" /></a>
     <a id="twitter" href="#facebookURL"><img src="images/twitter.png" alt="Twitter" /></a>
-</div> <!--#intro-->
+</section>
 
 <!-- BEGIN INSERTED CONTENT -->
 <div id="loader">Loading...</div>
@@ -153,10 +151,5 @@ $(window).load(function(){
 	
 });
 </script>
-<!-- /* <script type="text/javascript" src="scripts/video.js"></script> */ -->
-
-
-
-
 </body>
 </html>

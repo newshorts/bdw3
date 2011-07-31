@@ -106,7 +106,7 @@ nav{
 	background: white;
 }
 
-#intro{
+section{
 	background:url(images/bg-c3v2.gif) 0 -60.9px no-repeat scroll;
 	color: white;
 	height: 900px;
@@ -115,11 +115,12 @@ nav{
 	position: relative;
 }
 
-#intro .story {
+section article {
+        display: block;
 	position: absolute;
 	top: 340px;
 	left: 200px;
-	width: 899px;
+	min-width: 980px;
 	height: 55px;
 	background-color: white;
 	padding: 5px;
@@ -138,7 +139,7 @@ nav{
 	height: 30px;
 }
 
-#intro .story p {
+section article p {
 	color: black;
 	font-size: 16px;
 	font-weight: 200;
@@ -609,7 +610,7 @@ nav, #sidebar {
 }
 
 #mike {
-	background: black 50% 0 no-repeat fixed;
+	background: white 50% 0 no-repeat fixed;
 	color: white;
 	height: 1300px;
 	margin: 0 auto;
@@ -652,6 +653,13 @@ nav, #sidebar {
 	margin: 580px 0 0 71%;
 	padding: 0;
 
+}
+
+#mike article {
+    color: white;
+    display: block;
+    position: absolute;
+    margin-top: 700px;
 }
 
 #megan {
