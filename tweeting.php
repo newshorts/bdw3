@@ -19,23 +19,25 @@
 			
 		</div>
 	</body>
+
         <script type="text/javascript">
             /*
              * http://twitter.com/statuses/user_timeline/newshorts.json?callback=twitterCallback2&count=1
              */
             
             (function($) {
-                var tweets = function () {
+                function tweets() {
                     
-                    var url = "http://twitter.com/statuses/user_timeline/newshorts.json?callback=twitterCallback2&count=1";
+                    var url = "get_tweets.php?user=newshorts";
                     
-                    $.get(url,function (response) {
-                        condole.dir(response);
+                    $.getJSON(url, function(json) {
+                        console.dir(json);
                     });
                     
                 };
                 
-                setInterval("tweets()", 10000);
+                tweets();
+                //setInterval("tweets()", 10000);
             })(jQuery)
         </script>
 </html>
