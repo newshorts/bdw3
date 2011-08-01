@@ -238,7 +238,7 @@
 		</video>
 		<canvas id="code" width="600" height="400"></canvas>
 		<canvas id="feel" width="400" height="150"></canvas>
-		<a href=""><canvas id="more" width="300" height="75"></canvas></a>
+		<a href="http://iwearshorts.com/"><canvas id="more" width="300" height="75"></canvas></a>
 		<script type="text/javascript">
 			var mike = function (fill) {
 			
@@ -321,7 +321,7 @@
 			};
 		</script>
                 <article>
-                    <p>Each page designed individually. Theme designed by <a href="http://brianfouhy.com/" title="Brian Fouhy">Brian Fouhy</a>. Developed by <a href="http://iwearshorts.com/">Michael Newell</a> and <a href="http://kadisco.com/">Josh Kadis</a>. Copywriting and content by <a href="http://jonisdelicious.com/">Jon Swihart</a>, <a href="http://www.megannewtonportfolio.com/">Megan Newton</a> and <a href="http://charlottemyerberg.com/">Charlotte Myerberg</a>.</p>
+                    <p>Each page designed individually. Theme designed by <a href="http://brianfouhy.com/" title="Brian Fouhy">Brian Fouhy</a> and <a href="http://patrickanders.com">Patrick Anders</a>. Developed by <a href="http://iwearshorts.com/">Michael Newell</a> and <a href="http://kadisco.com/">Josh Kadis</a>. Copywriting and content by <a href="http://jonisdelicious.com/">Jon Swihart</a>, <a href="http://www.megannewtonportfolio.com/">Megan Newton</a> and <a href="http://charlottemyerberg.com/">Charlotte Myerberg</a>.</p>
                     <p>This site is released as open source software under the Creative Commons License. See the project on <a href="https://github.com/newshorts/bdw3" title="Visit Github.">Github</a></p>
                     <a href="http://bdw.colorado.edu"><img src="images/bdw-logo.png" alt="Boulder Digital Works" /></a>
                 </article>

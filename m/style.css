@@ -78,9 +78,7 @@ div.student h3.specialty {
 	border-bottom: 1px solid black;
 }
 
-div.student h3#fouhy {
-	background-image: url('img/peeps/100/fouhy.jpg');
-}
+
 
 div.student h2 {
 	font-size: 35px;
@@ -103,6 +101,24 @@ div.student li {
 div.student li a {
 	color: black;
 }
+
+/*-----------------------------------------------------------------------------------------------*/
+/*                                         NAV  STYLES                                           */
+/*-----------------------------------------------------------------------------------------------*/
+
+#charlotte { background-image: url('img/peeps/100/charlotte_color_03.png'); }
+#fouhy { background-image: url('img/peeps/100/fouhy_color_03.png'); }
+#jon { background-image: url('img/peeps/100/jon_color_03.png'); }
+#josh { background-image: url('img/peeps/100/josh_color_03.png'); }
+#laura { background-image: url('img/peeps/100/laura_color_03.png'); }
+#lauren { background-image: url('img/peeps/100/lauren_color_03.png'); }
+#max { background-image: url('img/peeps/100/max_color_03.png'); }
+#megan { background-image: url('img/peeps/100/megan_color_03.png'); }
+#mike { background-image: url('img/peeps/100/mike_color_03.png'); }
+#patrick { background-image: url('img/peeps/100/patrick_color_03.png'); }
+#pedro { background-image: url('img/peeps/100/pedro_color_03.png'); }
+#rj { background-image: url('img/peeps/100/rj_color_03.png'); }
+
 
 
 /*	Retina media query.

@@ -118,6 +118,19 @@
     <a id="twitter" href="#facebookURL"><img src="images/twitter.png" alt="Twitter" /></a>
 </header>
 
+<noscript>
+
+<!--
+
+    IF THE BROWSER DOESN'T ALLOW JAVASCRIPT, LET'S ATLEAST LOAD THE CONTENT FOR
+    SEO AND OTHER PURPOSES.
+
+-->
+
+<?php include_once 'content.php'; ?>
+
+</noscript>
+
 <!-- BEGIN INSERTED CONTENT -->
 <div id="loader"></div>
 <!-- END INSERTED CONTENT -->
@@ -145,7 +158,7 @@ $(window).load(function(){
 
     setTimeout(function () {
 
-        $.get("content.html", function (data) {
+        $.get("content.php", function (data) {
                
                 $("#loader").replaceWith(data);
                 
