@@ -8,11 +8,11 @@
 	            <p>My newest adventure? Moving to San Francisco and pursuing a career in strategic planning.</p>
             </article>
             <ul class="links">
-				<li><a class="portfolio" href="http://charlottemyerberg.com/" title="Charlotte Myerberg">Porfolio</a></li>
-				<li><a class="twitter" href="http://twitter.com/charrusse" title="Charlotte's Twitter">Twitter</a></li>
-			    <li><a class="email" href="mailto:cmyerberg@gmail.com" title="Charlotte's Email">Email</a></li>
-			    <br class="clear" />
-			</ul>
+                <li><a class="portfolio" href="http://charlottemyerberg.com/" title="Charlotte Myerberg"></a></li>
+                <li><a class="twitter" href="http://twitter.com/charrusse" title="Charlotte's Twitter"></a></li>
+                <li><a class="email" href="mailto:cmyerberg@gmail.com" title="Charlotte's Email"></a></li>
+                <br class="clear" />
+            </ul>
         </div>
     </div> <!-- end story -->
 </section>
@@ -27,12 +27,12 @@
                         <p>creative, pie, friendly, sneakers, patient, sports, curious, art, beach, observer, magazines, t-shirts, blunt, earnest, internet, thoughtful, boston, cookies, interested, music, plants, art director, intellectual, movies, syracuse, irish, television, warm, tall, sane, driver, multidimensional, grapefruit, bicycles, family, beer, sweet, advertising, outdoors, simple, fun, culture, smile, sandwiches, friends, tasteful, blue, providence, goofy, honest, experience, ambitious, steady, interesting.</p>
                 </article>
                 <ul class="links">
-                                    <li><a class="portfolio" href="http://brianfouhy.com/" title="Fouhy">Porfolio</a></li>
-                                    <li><a class="twitter" href="http://twitter.com/fouhy" title="Fouhy's Twitter">Twitter</a></li>
-                                    <li><a class="linkedin" href="http://linkedin.com/in/fouhy" title="Fouhy's LinkedIn">LinkedIn</a></li>
-                                    <li><a class="facebook" href="http://facebook.com/fouhy" title="Fouhy's Facebook">Facebook</a></li>
-                                    <li><a class="plus" href="http://gplus.to/fouhy" title="Fouhy's Google+">Google+</a></li>
-                                    <li><a class="portfolio" href="http://drinkwithfouhy.com" title="Fouhy's Personal Site">Drink with Fouhy</a></li>
+                                    <li><a class="portfolio" href="http://brianfouhy.com/" title="Fouhy"></a></li>
+                                    <li><a class="twitter" href="http://twitter.com/fouhy" title="Fouhy's Twitter"></a></li>
+                                    <li><a class="linkedin" href="http://linkedin.com/in/fouhy" title="Fouhy's LinkedIn"></a></li>
+                                    <li><a class="facebook" href="http://facebook.com/fouhy" title="Fouhy's Facebook"></a></li>
+                                    <li><a class="plus" href="http://gplus.to/fouhy" title="Fouhy's Google+"></a></li>
+                                    <li><a class="drink" href="http://drinkwithfouhy.com" title="Fouhy's Personal Site"></a></li>
                                     <br class="clear" />	
                             </ul>
             </div>
@@ -49,9 +49,9 @@
                         <p>I am developing my skills in graphic design, web development, photography, illustration, and production and am excited to take the next steps and focus on strategic planning and user experience.</p>
                 </article>
                 <ul class="links">
-                                    <li><a class="portfolio" href="http://laurahamrick.com/" title="Laura Hamrick">Porfolio</a></li>
-                                    <li><a class="twitter" href="http://twitter.com/laurahamrick/" title="Laura's Twitter">Twitter</a></li>
-                                    <li><a class="linkedin" href="http://linkedin.com/pub/laura-hamrick/24/9b3/b66" title="Laura's LinkedIn">LinkedIn</a></li>
+                                    <li><a class="portfolio" href="http://laurahamrick.com/" title="Laura Hamrick"></a></li>
+                                    <li><a class="twitter" href="http://twitter.com/laurahamrick/" title="Laura's Twitter"></a></li>
+                                    <li><a class="linkedin" href="http://linkedin.com/pub/laura-hamrick/24/9b3/b66" title="Laura's LinkedIn"></a></li>
                                     <br class="clear" />
                             </ul>
             </div>
@@ -64,25 +64,22 @@
             <div class="float-right">
                 <h2 class="darker">Pedro Sorrentino</h2>
                 <article>
-                        <p>Business and strategy problems that still don't have an exact answer, inspiring people and Junior Mints makes me smile.</p>
-                        <p>As a white paper junkie and white board aficionado I think that the real answers are are out in the streets when we talk to people.</p>
-                        <p>I was born in Sao Paulo and own an Italian passport. This means that I am addicted to my nona's pasta, fit well in loud-energized environments and talk with my hands.</p>
-                        <p>As an advocate of Lean Startup and Agile methodologies I've learned that real strategy tends to happen when execution starts. I want to play in the front of the battlefield, because things only matter when they get made. I am an entrepreneur.</p>
-                        <p>I dig people that make the impossible a reality, from bringing Ajax to webmail (Gmail) to running a mile in less than 4 minutes. For me utopia is something great and 1+1 can = 3.</p>
-                        <p>Being literate in different languages can only make you better because collaboration is very important in this liquid tech world.</p>
-                        <p>I want to be part of an environment where I can always be the less smart one in the room. Work with people that are fueled by purpose instead of revenue, because money is a mere consequence of excellence.</p>
-                        <p>In a previous life I worked as an international correspondent traveling around the US covering startups, Barack Obama, the ad industry and technology events. I also worked for 3 years doing PR & Marketing for Nasdaq listed companies/products.</p>
+                        <p>I want to be part of an environment where I can always be the least smart one in the room. Work with people that are fueled by purpose instead of revenue, because money is a mere consequence of excellence.</p>
+                        <p>Business and strategy problems that still don't have an exact answer, inspiring people and Junior Mints makes me smile. </p>
+                        <p>I was born in Sao Paulo and own an Italian passport. This means that I am addicted to my nona's pasta, fit well in loud-energized environments and talk with my hands. </p>
+                        <p>I strive when playing in the front of the battlefield, because things only matter when they get made. I am an entrepreneur.</p>
+                        <p>In a previous life I worked as an international correspondent traveling around the US covering startups, Barack Obama, the ad industry and technology events. I also worked for 3 years doing PR & Marketing for Nasdaq listed companies/products and a well funded startup.</p>
                         <p>If Mondays are one of your favorite days of the week, we should definitely talk.</p>
                 </article>
                 <ul class="links">
-                        <li><a class="portfolio" href="http://cargocollective.com/pedrosorren/" title="Pedro Sorrentino">Porfolio</a></li>
-                        <li><a class="twitter" href="http://twitter.com/pedrosorren" title="Pedro's Twitter">Twitter</a></li>
-                        <li><a class="linkedin" href="http://linkedin.com/in/pedrosorren" title="Pedro's LinkedIn">LinkedIn</a></li>
-                        <li><a class="facebook" href="http://facebook.com/pedrosorren" title="Pedro's Facebook">Facebook</a></li>
-                        <li><a class="video" href="http://vimeo.com/channels/pedrosorren" title="Pedro's Vimeo Channel">Vimeo</a></li>
-                        <li><a class="plus" href="http://gplus.gl/nKPjJ" title="Pedro's Google+">Google+</a></li>
-                        <li><a class="portfolio" href="http://pedrosorren.com" title="Pedro's Blog">Blog</a></li>	
-                        <li><a class="portfolio" href="http://mashable.com/author/pedro-sorrentino/" title="Pedro's Mashable Profile">Mashable</a></li>
+                        <li><a class="portfolio" href="http://cargocollective.com/pedrosorren/" title="Pedro Sorrentino"></a></li>
+                        <li><a class="twitter" href="http://twitter.com/pedrosorren" title="Pedro's Twitter"></a></li>
+                        <li><a class="linkedin" href="http://linkedin.com/in/pedrosorren" title="Pedro's LinkedIn"></a></li>
+                        <li><a class="facebook" href="http://facebook.com/pedrosorren" title="Pedro's Facebook"></a></li>
+                        <li><a class="vimeo" href="http://vimeo.com/channels/pedrosorren" title="Pedro's Vimeo Channel"></a></li>
+                        <li><a class="plus" href="http://gplus.gl/nKPjJ" title="Pedro's Google+"></a></li>
+                        <li><a class="blog" href="http://pedrosorren.com" title="Pedro's Blog"></a></li>	
+                        <li><a class="mashable" href="http://mashable.com/author/pedro-sorrentino/" title="Pedro's Mashable Profile"></a></li>
                         <br class="clear" />	
                 </ul>
             </div>
@@ -100,11 +97,11 @@
     <p>So rather than talk about myself, I&#39;d like to tell you about the rest of the people on this page. They&#39;ll challenge your thinking. They&#39;re great listeners and fast learners. They&#39;re versatile and professional. They&#39;re sharp as tacks.</p>
                 </article>
                 <ul class="links">
-                                    <li><a class="portfolio" href="http://kadisco.com/" title="Josh Kadis">Porfolio</a></li>
-                                    <li><a class="twitter" href="http://twitter.com/laurahamrick/" title="Josh's Twitter">Twitter</a></li>
-                                <li><a class="linkedin" href="http://linkedin.com/in/joshkadis" title="Josh's LinkedIn">LinkedIn</a></li>
-                                <br class="clear" />
-                            </ul>
+                    <li><a class="portfolio" href="http://kadisco.com/" title="Josh Kadis"></a></li>
+                    <li><a class="twitter" href="http://twitter.com/laurahamrick/" title="Josh's Twitter"></a></li>
+                    <li><a class="linkedin" href="http://linkedin.com/in/joshkadis" title="Josh's LinkedIn"></a></li>
+                    <br class="clear" />
+                </ul>
             </div>
         </div> <!-- end story -->
 </section>
@@ -119,11 +116,11 @@
                         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean nibh erat, sagittis sit amet congue at, aliquam eu libero. Integer molestie, turpis vel ultrices facilisis, nisi mauris sollicitudin mauris, volutpat elementum enim urna eget odio. Donec egestas aliquet facilisis. Nunc eu nunc eget neque ornare fringilla. Nam vel sodales lectus. Nulla in pellentesque eros. Donec ultricies, enim vitae varius cursus, risus mauris iaculis neque, euismod sollicitudin metus erat vitae sapien. Sed pulvinar.</p>
                 </article>
                 <ul class="links">
-                                    <li><a class="portfolio" href="http://MxMnr.com/" title="Max Miner">Porfolio</a></li>
-                                    <li><a class="twitter" href="http://twitter.com/MxMnr" title="Max's Twitter">Twitter</a></li>
-                                <li><a class="email" href="mailto:Maxwell.Miner@mac.com" title="Max's Email">Email</a></li>
-                                <br class="clear" />
-                            </ul>
+                    <li><a class="portfolio" href="http://MxMnr.com/" title="Max Miner"></a></li>
+                    <li><a class="twitter" href="http://twitter.com/MxMnr" title="Max's Twitter"></a></li>
+                    <li><a class="email" href="mailto:Maxwell.Miner@mac.com" title="Max's Email"></a></li>
+                    <br class="clear" />
+                </ul>
             </div>
         </div> <!-- end story -->
 </section>
@@ -138,11 +135,11 @@
                         <p>I have the problem solving skills to take on communication challenges and develop cohesive, innovative advertising strategies.  Although my main focus has been on the strategy side, I continue to develop my design skills and even dabble in web development.</p>
                 </article>
                 <ul class="links">
-                                    <li><a class="portfolio" href="http://megannewtonportfolio.com/" title="Megan Newton">Porfolio</a></li>
-                                    <li><a class="twitter" href="http://twitter.com/megannewt/" title="Megan's Twitter">Twitter</a></li>
-                                <li><a class="linkedin" href="http://linkedin.com/in/megannewton" title="Megan's LinkedIn">LinkedIn</a></li>
-                                <br class="clear" />
-                            </ul>
+                    <li><a class="portfolio" href="http://megannewtonportfolio.com/" title="Megan Newton"></a></li>
+                    <li><a class="twitter" href="http://twitter.com/megannewt/" title="Megan's Twitter"></a></li>
+                    <li><a class="linkedin" href="http://linkedin.com/in/megannewton" title="Megan's LinkedIn"></a></li>
+                    <br class="clear" />
+                </ul>
             </div>
         </div> <!-- end story -->
 </section>
@@ -157,8 +154,8 @@
                     <p>As a creator, I believe there's always a way to connect our physical world to digital. Analog is not dead; it simply needs a creative bridge in order to merge those valuable experiences onto shareable digital platforms.  Enhancing or entertaining consumer lives where they are is what makes ideas scale, and brands grow.</p>
                             </article>
                             <ul class="links">
-                                    <li><a class="portfolio" href="http://patrickanders.com/" title="Patrick Anders">Portfolio</a></li>
-                                    <li><a class="twitter" href="http://twitter.com/pkander" title="Patrick's Twitter">Twitter</a></li>
+                                    <li><a class="portfolio" href="http://patrickanders.com/" title="Patrick Anders"></a></li>
+                                    <li><a class="twitter" href="http://twitter.com/pkander" title="Patrick's Twitter"></a></li>
                                     <br class="clear" />
                             </ul>
             </div>
@@ -169,17 +166,17 @@
 	<div class="story">
             <div class="midground"></div>
             <div class="float-right">
-                <h2>Jon<br />Swihart</h2>
+                <h2>Jon B.<br />Swihart</h2>
                 <article>
                         <p>I am completely convinced that everything is a story. Everything is a combination of character, plot, and setting. Any problem can be solved when approached this way. My mission is always to discover the right story to tell. Who are the characters and what do they want to do? How can I help them achieve their goals in the time and space we have together? How do we make it interesting?</p> 
                         <p>These questions are not easy to answer and require much exploration, experimentation, and wandering. But the more they are explored, the more the appropriate solution emerges. And the more interested everyone becomes.</p>
                 </article>
                 <ul class="links">
-                                    <li><a class="portfolio" href="http://jonisdelicious.com/" title="Jon Swihart">Porfolio</a></li>
-                                    <li><a class="twitter" href="http://twitter.com/Jonisdelicious" title="Jon's Twitter">Twitter</a></li>
-                                    <li><a class="linkedin" href="http://linkedin.com/in/johnswihart" title="Jon's LinkedIn">LinkedIn</a></li>
-                                    <li><a class="plus" href="http://gplus.to/jon.swihart" title="Jon's Google+">Google+</a></li>
-                                    <li><a class="portfolio" href="http://jonswihartonline.com" title="Jon's Blog">Blog</a></li>
+                                    <li><a class="portfolio" href="http://jonisdelicious.com/" title="Jon Swihart"></a></li>
+                                    <li><a class="twitter" href="http://twitter.com/Jonisdelicious" title="Jon's Twitter"></a></li>
+                                    <li><a class="linkedin" href="http://linkedin.com/in/johnswihart" title="Jon's LinkedIn"></a></li>
+                                    <li><a class="plus" href="https://plus.google.com/114619691664643601771" title="Jon's Google+"></a></li>
+                                    <li><a class="portfolio" href="http://jonswihartonline.com" title="Jon's Blog"></a></li>
                                     <br class="clear" />	
                             </ul>
             </div>
@@ -196,11 +193,11 @@
                         <p>Skier, Lego enthusiast, Sleepwalker, Writer, Model United Nations geek, Muggle, Cultural Explorer, Sour Patch Kids addict, Political Scientist, hula-hooping hippy, Mountain Sports Media editorial and marketing intern, Teton County redneck, Outdoor Industry PR Account Coordinator, Dog foster parent turned dog owner, Boulder Digital Works 60 Weeks Student, Survivor of twenty-two cavities, Digital Cultural Creative</p>
                 </article>
                 <ul class="links">
-                                    <li><a class="portfolio" href="http://hippyhippyshake.me/" title="Lauren Parker">Porfolio</a></li>
-                                    <li><a class="twitter" href="http://twitter.com/laurahamrick/" title="Lauren's Twitter">Twitter</a></li>
-                                <li><a class="linkedin" href="http://linkedin.com/in/parkerle08" title="Lauren's LinkedIn">LinkedIn</a></li>
-                                <br class="clear" />
-                            </ul>
+                    <li><a class="portfolio" href="http://hippyhippyshake.me/" title="Lauren Parker"></a></li>
+                    <li><a class="twitter" href="http://twitter.com/laurahamrick/" title="Lauren's Twitter"></a></li>
+                    <li><a class="linkedin" href="http://linkedin.com/in/parkerle08" title="Lauren's LinkedIn"></a></li>
+                    <br class="clear" />
+                </ul>
             </div>
         </div> <!-- end story -->
 </section>
@@ -215,8 +212,8 @@
                         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean nibh erat, sagittis sit amet congue at, aliquam eu libero. Integer molestie, turpis vel ultrices facilisis, nisi mauris sollicitudin mauris, volutpat elementum enim urna eget odio. Donec egestas aliquet facilisis. Nunc eu nunc eget neque ornare fringilla. Nam vel sodales lectus. Nulla in pellentesque eros. Donec ultricies, enim vitae varius cursus, risus mauris iaculis neque, euismod sollicitudin metus erat vitae sapien. Sed pulvinar.</p>
                 </article>
                     <ul class="links">
-                                    <li>Portfolio: <a class="portfolio" href="Patrickanders.com" title="Portfolio"></a></li>
-                                    <li>Twitter: <a class="twitter" href="twitter.com/pkander" title="Twitter"></a></li>
+                                    <li><a class="portfolio" href="Patrickanders.com" title="Portfolio"></a></li>
+                                    <li><a class="twitter" href="twitter.com/pkander" title="Twitter"></a></li>
                                     <br class="clear" />
                             </ul>
             </div>
@@ -332,7 +329,7 @@
 
 <script type="text/javascript">
 	// Page(container, background image position, midground image position, container left, midground left)
-	var Charlotte = new Page("#charlotte", 1250, 1800, 50, 10);
+	var Charlotte = new Page("#charlotte", 1250, 2000, 50, 10);
 	var Fouhy = new Page("#fouhy", 2500, 3300, 50, 0);
 	var Laura = new Page("#laura", 3750, 4650, 50, 0);
 	var Pedro = new Page("#pedro", 5000, 5900, 50, 0);

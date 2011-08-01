@@ -29,6 +29,8 @@
 <noscript>Sorry, your browser does not support JavaScript!</noscript>
 
 <nav>
+    
+    <div id="home-nav" role="navigation" class="hidden"><a href="#home"></a></div>
     	
     <ul role="menu">
 
@@ -107,7 +109,7 @@
     </ul>
 </nav> <!--#header-->
 
-<header class="hidden">
+<header id="home" class="hidden">
     <div id="logo">
             <a href="http://bdw.colorado.edu" title="Boulder Digital Works">&nbsp;</a>
     </div>
@@ -150,9 +152,13 @@
     
 $(window).load(function(){
     
+    $('nav li').slideDown('slow');
+    
     $('header').delay(500).fadeIn('slow');
     
-    $('nav li').slideDown('slow');
+    $('#home-nav').delay(1000).fadeIn('slow');
+    
+    
     
     
 

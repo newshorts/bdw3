@@ -28,7 +28,7 @@ p{
 }
 
 p, ul{
-	font-family:"Proxima Nova Light", 'Helvetica Neue', Arial, Helvetica, sans-serif;
+	font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;
 	font-size-adjust:0.488;
 	font-style:normal;
 	font-size: 16px;
@@ -57,7 +57,7 @@ h1, #pixels{
 }
 
 h2{
-	font-family:"Beau Sans Pro Book", Verdana, sans-serif;
+	font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;
 	font-size-adjust:0.531;
 	font-weight:500;
 	font-style:normal;
@@ -111,7 +111,7 @@ header {
 	background:url(images/bg-c3v2.gif) 0 -60.9px no-repeat scroll;
 	color: white;
 	height: 100%;
-        min-height: 740px;
+        min-height: 800px;
 	margin: 0 auto;
 	width: 1200px;
 	position: relative;
@@ -301,6 +301,25 @@ nav .patrick a:hover {      background-position: 0 -101px;}
 nav .patrick-active a {     background-position: 0px -101px;}
 nav .patrick .hover {       background-position: -2857px 0px ;}
 
+#home-nav a {
+    display: block;
+    position: fixed;
+    top: 359px;
+    left: 10px;
+    background: url(images/icons-sprite.png) -719px 0;
+    width: 45px;
+    height: 42px;
+    -webkit-transition:-webkit-transform 0.5s ease-in-out;
+    -moz-transition:-moz-transform 0.5s ease-in-out;
+    
+}
+
+#home-nav a:hover {
+    -webkit-transform: rotate(-360deg); 
+    -moz-transform: rotate(-360deg);
+    filter: progid:DXImageTransform.Microsoft.BasicImage(rotation=4);
+}
+
 
 /*-----------------------------------------------------------------------------------------------*/
 /*                                     CONTENT  STYLES                                           */
@@ -369,7 +388,7 @@ nav .patrick .hover {       background-position: -2857px 0px ;}
 
 .story .float-right ul li {
 	float: left;
-	margin-right: 30px;
+	margin: 5px 28px 5px 0;
 	list-style: none;
 }
 
@@ -634,23 +653,61 @@ nav .patrick .hover {       background-position: -2857px 0px ;}
 
 .story > .midground {left: 0px;}
 
-.twitter, .facebook, 
-.linkedin, .plus, 
-.portfolio, .email, .video {
-	display: block;
-	width: 40px;
-	height: 39px;
+.links li a {
+    display: block;
+    width: 45px;
+    height: 42px;
+    background: url(images/icons-sprite.png);
 }
 
-.twitter {
-	background: url(images/twitter.png) scroll no-repeat;
+.links li a:hover {
+    position: relative;
+    top: 1px;
 }
 
-.facebook {
-	background: url(images/facebook.png) scroll no-repeat;
+.links li a:active {
+    top: 2px;
 }
 
+.links li a.twitter {
+	background-position: -502px, 0;
+}
 
+.links li a.facebook {
+	background-position: -574px, 0;
+}
+
+.links li a.portfolio {
+    background-position: 0, 0;
+}
+
+.links li a.linkedin {
+    background-position: -430px, 0px;
+}
+
+.links li a.plus {
+    background-position: -141px, 0;
+}
+
+.links li a.email {
+    background-position: -288px, 0;
+}
+
+.links li a.vimeo {
+    background-position: -358px, 0;
+}
+
+.links li a.drink {
+    background-position: -786px, 0;
+}
+
+.links li a.blog {
+    background-position: -213px, 0;
+}
+
+.links li a.mashable {
+    background-position: -69px, 0;
+}
 /*-----------------------------------------------------------------------------------------------*/
 /*                                         UTILITY  CLASSES                                      */
 /*-----------------------------------------------------------------------------------------------*/
