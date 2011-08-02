@@ -41,29 +41,106 @@
             
             console.debug(username + " " + text);
             
-            var elems = $('nav li');
-            var posLeft = 1;
-            var className = "tweetRight";
-
-            elems.each(function(index, val) {
+//            var elems = $('nav li');
+//            var counter = 0;
             
-                if($(val).data(username)) {
-                    posLeft = val.offsetLeft;
-                    console.dir(val);
+            var Action = {
+                elems: $('nav li'),
+                userName: "",
+                text: "",
+                className: "tweetRight",
+                posLeft: 0,
+                text: "",
+                showTweet: function() {
+                    $('nav').append('<div class="tweet '+Action.className+' hidden" style="left: '+Action.posLeft+'px;"><a href="#">'+Action.text+'</a></div>');
+                    $('.tweet').slideDown(800).delay(2800).fadeOut(800, function () {
+                        $(this).remove();
+                    });
+                },
+                setPosLeft: function (pos) {
+                    Action.posLeft = pos;
+                },
+                setText: function (txt) {
+                    Action.text = txt;
+                },
+                setUserName: function (uname) {
+                    Action.userName = uname;
+                },
+                setClassName: function (name) {
+                    Action.className = name;
+                },
+                findPosition: function () {
+                    Action.elems.each(function(index, val) {
+                        
+//                        var current = $(val);
+                        
+//                        console.dir(current);
+                        
+                        if($(val).data(Action.userName) != undefined) {
+                            Action.setPosLeft(val.offsetLeft);
+                            
+                            if($(val).hasClass('left')) {
+                                Action.setClassName('tweetLeft');
+                                var newPos = Action.posLeft - 29;
+                                Action.setPosLeft(newPos);
+                            } else if ($(val).hasClass('right')) {
+                                Action.setClassName('tweetRight');
+                                var newPos = Action.posLeft - 288;
+                                Action.setPosLeft(newPos);
+                            } else {
+                                console.debug("Unable to determine position: " + Action.posLeft);
+                            }
+                            
+                        } else {
+                            console.debug("Unable to determine if " + $(val).data(Action.userName) + " is equal to " + Action.userName);
+                        }
+                        
+                        
+                    });
+                    
+                    Action.showTweet();
+                    
+                },
+                init: function (username, text) {
+                    Action.setUserName(username);
+                    Action.setText(text);
+                    
+//                    console.dir(Action);
+                    
+                    Action.findPosition();
+                    
+                    console.dir(Action);
                 }
-                
-                if($(val).hasClass("left")) {
-                    className = "tweetLeft";
-                    posLeft = posLeft - 29;
-                }
-                
-                if($(val).hasClass("right")) {
-                    posLeft = posLeft - 288;
-                }
-            });
+            }; // end Action
+            
+            Action.init(username, text);
 
-            $('nav').append('<div class="tweet '+className+' hidden" style="left: '+posLeft+'px;"><a href="#">'+text+'</a></div>');
-            $('.tweet').fadeIn('slow')/*.delay(1800).fadeOut('slow').remove()*/;
+//            elems.each(function(index, val) {
+//                
+//                if(counter = 0) {
+//                
+//                    var posLeft = 0;
+//
+//                    if($(val).data(username)) {
+//                        posLeft = parseInt(val.offsetLeft);
+//                        console.dir(val);
+//                        counter++;
+//                    }
+//
+//                    if($(val).hasClass("left")) {
+//                        className = "tweetLeft";
+//                        posLeft = posLeft - 29;
+//                    }
+//
+//                    if($(val).hasClass("right")) {
+//                        posLeft = posLeft - 288;
+//                    }
+//                }
+//            });
+
+            
+            
+//            delete posLeft;
         };
 	
 })(jQuery)

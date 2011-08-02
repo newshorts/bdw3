@@ -322,12 +322,12 @@ nav .patrick .hover {       background-position: -2857px 0px ;}
 
 .tweetLeft {
     position: fixed;
-    background: url(images/nav-tweet/left.png) no-repeat 0 0;
+    background: url(images/nav-tweet/right.png) no-repeat 0 0; 
     bottom: 100px;
-    width: 393px;
+    width: 325px;
     height: 337px;
     padding-top: 100px;
-    padding-left: 25px;
+    padding-left: 90px;
 }
 
 .tweetLeft a {
@@ -340,12 +340,14 @@ nav .patrick .hover {       background-position: -2857px 0px ;}
 }
 
 .tweetRight { 
-    background: url(images/nav-tweet/right.png) no-repeat 0 0; 
+    position: fixed;
+    background: url(images/nav-tweet/left.png) no-repeat 0 0;
     bottom: 100px; 
-    width: 305px;
+    width: 412px;
     height: 337px;
+    
     padding-top: 100px;
-    padding-left: 107px;
+    padding-left: 0;
 }
 
 .tweetRight a {
