@@ -35,8 +35,8 @@ if ($handle = opendir($path)) {
         foreach($file_arr as $file_name) {
             
             $file_time = stristr($file_name, '_', true);
-            
-            if($file_time > ($current_time - 9999)) {
+            // 3600 is an hour
+            if($file_time > ($current_time - 3600)) {
                 
                 if(strpos($file_name, "tweeted") === false){
                     
@@ -68,6 +68,10 @@ if ($handle = opendir($path)) {
         
         print json_encode($output_content);
         
+    } else {
+        $warning = array("Warning" => "No tweets have been received in the allotted time.", "error_code" => "301");
+        
+        print json_encode($warning);
     }
         
 }

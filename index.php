@@ -36,73 +36,73 @@
     	
     <ul role="menu">
 
-            <li role="menuitem" class="charlotte left ">
+            <li role="menuitem" class="charlotte left " data-screenName="charusse">
 
                 <a href="#charlotte" >
                     <div class="hover"></div>
                 </a>
             </li>
-            <li role="menuitem" class="fouhy left ">
+            <li role="menuitem" class="fouhy left " data-screenName="fouhy">
                 <a href="#fouhy" >
 
                     <div class="hover"></div>
                 </a>
             </li>
-            <li role="menuitem" class="laura left ">
+            <li role="menuitem" class="laura left " data-screenName="laurahamrick">
                 <a href="#laura" >
 
                     <div class="hover"></div>
                 </a>
             </li>
-            <li role="menuitem" class="pedro left ">
+            <li role="menuitem" class="pedro left " data-screenName="pedrosorren">
                 <a href="#pedro" >
 
                     <div class="hover"></div>
                 </a>
             </li>
-            <li role="menuitem" class="josh left ">
+            <li role="menuitem" class="josh left " data-screenName="kadisco">
                 <a href="#josh" >
 
                     <div class="hover"></div>
                 </a>
             </li>
-            <li role="menuitem" class="max left ">
+            <li role="menuitem" class="max left " data-screenName="MxMnr">
                 <a href="#max" >
 
                     <div class="hover"></div>
                 </a>
             </li>
-            <li role="menuitem" class="megan right ">
+            <li role="menuitem" class="megan right " data-screenName="megannewt">
                 <a href="#megan" >
 
                     <div class="hover"></div>
                 </a>
             </li>
-            <li role="menuitem" class="patrick right ">
+            <li role="menuitem" class="patrick right " data-screenName="pkander">
                 <a href="#patrick" >
 
                     <div class="hover"></div>
                 </a>
             </li>
-            <li role="menuitem" class="jon right ">
+            <li role="menuitem" class="jon right " data-screenName="JonisDelicious">
                 <a href="#jon" >
 
                     <div class="hover"></div>
                 </a>
             </li>
-            <li role="menuitem" class="lauren right">
+            <li role="menuitem" class="lauren right" data-screenName="loparks">
                 <a href="#lauren" >
 
                     <div class="hover"></div>
                 </a>
             </li>
-            <li role="menuitem" class="rj right">
+            <li role="menuitem" class="rj right" data-screenName="rjduranjr">
                 <a href="#rj" >
 
                     <div class="hover"></div>
                 </a>
             </li>
-            <li role="menuitem" class="mike right">
+            <li role="menuitem" class="mike right" data-screenName="newshorts">
                 <a href="#mike" >
 
                     <div class="hover"></div>
@@ -199,6 +199,17 @@ $(window).load(function(){
         });
 
     }, 1500);
+    
+    
+    setInterval(function() {
+            $.getJSON("get_tweets.php", function(json) {
+
+                    $(json).each(function() {
+                        // do something here...
+                    });
+
+            });
+    }, 5000);
     
     
                 
