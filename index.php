@@ -196,7 +196,7 @@ $(window).load(function(){
 
     }, 1500);
     
-    setTimeout(function () {
+    setInterval(function () {
                         
         $.getJSON("student-tweets/get_tweets.php", function(json) {
             if(json === undefined) {
