@@ -192,7 +192,7 @@ nav li:last-child {
 	margin-right: 0;
 }
 
-nav a {
+nav li a {
     color: black;
     width: 100px;
     height: 100px;
@@ -201,7 +201,7 @@ nav a {
     background-image: url(https://s3.amazonaws.com/bdw3/nav-sprite.png);
 }
 
-nav a:hover {
+nav li a:hover {
 	background-image: url(https://s3.amazonaws.com/bdw3/nav-sprite.png);
 }
 
@@ -221,7 +221,7 @@ nav .hover {
 	transition: opacity .25s linear;
 }
 
-nav a:hover .hover {
+nav li a:hover .hover {
 	opacity: 1;
 	bottom: 100px;
 }
@@ -318,6 +318,43 @@ nav .patrick .hover {       background-position: -2857px 0px ;}
     -webkit-transform: rotate(-360deg); 
     -moz-transform: rotate(-360deg);
     filter: progid:DXImageTransform.Microsoft.BasicImage(rotation=4);
+}
+
+.tweetLeft {
+    position: fixed;
+    background: url(images/nav-tweet/left.png) no-repeat 0 0;
+    bottom: 100px;
+    width: 393px;
+    height: 337px;
+    padding-top: 100px;
+    padding-left: 25px;
+}
+
+.tweetLeft a {
+    display: block;
+    width: 312px;
+    margin-top: 28px;
+    -webkit-transform: rotate(-45deg); 
+    -moz-transform: rotate(-45deg); 
+    filter: progid:DXImageTransform.Microsoft.BasicImage(rotation=2);
+}
+
+.tweetRight { 
+    background: url(images/nav-tweet/right.png) no-repeat 0 0; 
+    bottom: 100px; 
+    width: 305px;
+    height: 337px;
+    padding-top: 100px;
+    padding-left: 107px;
+}
+
+.tweetRight a {
+    display: block;
+    width: 312px;
+    margin-top: 20px;
+    -webkit-transform: rotate(-45deg); 
+    -moz-transform: rotate(-45deg); 
+    filter: progid:DXImageTransform.Microsoft.BasicImage(rotation=2);
 }
 
 

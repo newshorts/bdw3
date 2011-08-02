@@ -36,5 +36,34 @@
 		});
 		
 	};
+        
+        Tweet = function (username, text) {
+            
+            console.debug(username + " " + text);
+            
+            var elems = $('nav li');
+            var posLeft = 1;
+            var className = "tweetRight";
+
+            elems.each(function(index, val) {
+            
+                if($(val).data(username)) {
+                    posLeft = val.offsetLeft;
+                    console.dir(val);
+                }
+                
+                if($(val).hasClass("left")) {
+                    className = "tweetLeft";
+                    posLeft = posLeft - 29;
+                }
+                
+                if($(val).hasClass("right")) {
+                    posLeft = posLeft - 288;
+                }
+            });
+
+            $('nav').append('<div class="tweet '+className+' hidden" style="left: '+posLeft+'px;"><a href="#">'+text+'</a></div>');
+            $('.tweet').fadeIn('slow')/*.delay(1800).fadeOut('slow').remove()*/;
+        };
 	
 })(jQuery)
