@@ -7,6 +7,8 @@
 <html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <title>Class 3 ∫∫ Boulder Digital Works</title>
+<link rel="shortcut icon" href="favicon.ico"> 
+<link rel="icon" type="image/ico" href="favicon.ico">
 <link href="style.css" rel="stylesheet" type="text/css" />
 <script type="text/javascript">
 
@@ -116,8 +118,8 @@
     <article>
         <p>C3 is the third installment of the Boulder Digital Works experience. We're a collection of multi-talented individuals from many different backgrounds who've come together to lead in digital innovation. We're hybrids that fuse creativity, technical virtuosity, and an entrepreneurial mindset to solve problems. Collaboration is our specialty, and we take pride in our multi-layered approach to creative problem solving.</p>
     </article>
-    <a id="facebook" href="#twitterURL"><img src="https://s3.amazonaws.com/bdw3/facebook.png" alt="Facebook" /></a>
-    <a id="twitter" href="#facebookURL"><img src="https://s3.amazonaws.com/bdw3/twitter.png" alt="Twitter" /></a>
+    <a id="facebook" href="#twitterURL"><img src="images/facebook.png" alt="Facebook" /></a>
+    <a id="twitter" href="#facebookURL"><img src="images/twitter.png" alt="Twitter" /></a>
 </header>
 
 <noscript>
