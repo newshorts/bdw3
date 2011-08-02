@@ -1,0 +1,93 @@
+
+/*	Resets
+	------	*/
+
+html, body, div, span, object, iframe, h1, h2, h3, h4, h5, h6, 
+p, blockquote, pre, a, abbr, address, cite, code, del, dfn, em, 
+img, ins, kbd, q, samp, small, strong, sub, sup, var, b, i, hr, 
+dl, dt, dd, ol, ul, li, fieldset, form, label, legend, 
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, figure, figcaption, hgroup, 
+menu, footer, header, nav, section, summary, time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+}
+
+article, aside, canvas, figure, figure img, figcaption, hgroup,
+footer, header, nav, section, audio, video {
+	display: block;
+}
+
+/*	Body
+	----	*/
+
+html, body {
+	height: 100%;
+}
+
+body {
+	background: url('img/tagLogo.png') black center center no-repeat;
+	font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+	font-weight: bolder;
+	line-height: 1;
+	color: #F7EC00;
+}
+
+/*	Tag column styles
+	---------------	*/
+	
+section.puzzle {
+	width: 10%;
+	height: 100%;
+	background: transparent;
+	float: left;
+}
+
+section.puzzle div.result {
+	background: #F7EC00;
+	width: 100%;
+	color: #2B2B2B
+}
+
+section.puzzle div.progress {
+	background: #2B2B2B;
+	width: 100%;
+	height:100%;	
+}
+
+section.puzzle p {
+	text-align: center;
+	padding: 15px 0;
+}
+
+/*	Tag alt column styles
+	---------------------	 */
+
+section.puzzle.alt div.result {
+	background: #2B2B2B;
+	color: #F7EC00
+}
+
+section.puzzle.alt div.progress {
+	background: #F7EC00;
+	color: #2B2B2B;
+}
+
+/*	Retina media query.
+	Overrides styles for devices with a 
+	device-pixel-ratio of 2+, such as iPhone 4.
+-----------------------------------------------    */
+
+@media 
+	only screen and (-webkit-min-device-pixel-ratio: 2),
+	only screen and (min-device-pixel-ratio: 2) {
+	
+	body {
+		background-image: url('img/tagLogo_retina.png');
+	}
+	
+	section.puzzle p {
+		padding: 30px 0;
+	}
+}

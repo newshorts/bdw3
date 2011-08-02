@@ -52,13 +52,21 @@ class Scan {
 }
 
 function show_stats ($dbh) {
-	$stats = $dbh->prepare("SELECT name, scans FROM tags");
+	$stats = $dbh->prepare("SELECT id, name, scans FROM tags");
 	$stats->execute();
 	$tags = $stats->fetchAll();
 
 	foreach ($tags as $tag) {
 		?>
-		<p><?php echo $tag['name'];?>: <?php echo $tag['scans']; ?></p>
+		<section class="puzzle">
+			<div class="result">
+				<p></p>
+			</div>
+			<div data-score="<?php echo $tag['scans']; ?>" class="progress">
+				<p><?php echo $tag['id'];?></p>
+			</div>
+		</section>
+		<!--<p><?php echo $tag['name'];?>: <?php echo $tag['scans']; ?></p>-->
 		<?php
 	}
 }

@@ -108,7 +108,7 @@ nav, #intro {
 /*-----------------------------------------------------------------------------------------------*/
 
 header {
-	background:url(images/bg-c3v2.gif) 0 -60.9px no-repeat scroll;
+	background:url(https://s3.amazonaws.com/bdw3/bg-c3v2.gif) 0 -60.9px no-repeat scroll;
 	color: white;
 	height: 100%;
         min-height: 800px;
@@ -129,7 +129,7 @@ header article {
 }
 
 #logo {
-	background: url(images/bdw-logo.png) scroll no-repeat;
+	background: url(https://s3.amazonaws.com/bdw3/bdw-logo.png) scroll no-repeat;
 	position: absolute;
 	top: 100px;
 	right: 50px;
@@ -198,11 +198,11 @@ nav a {
     height: 100px;
     display: block;
     z-index: 9999;
-    background-image: url(images/nav-sprite.png);
+    background-image: url(https://s3.amazonaws.com/bdw3/nav-sprite.png);
 }
 
 nav a:hover {
-	background-image: url(images/nav-sprite.png);
+	background-image: url(https://s3.amazonaws.com/bdw3/nav-sprite.png);
 }
 
 
@@ -214,7 +214,7 @@ nav .hover {
 	bottom: -200px;
 	z-index:999;
 	opacity: 0;
-	background-image: url(images/nav-sprite.png);
+	background-image: url(https://s3.amazonaws.com/bdw3/nav-sprite.png);
 	-moz-transition: opacity .25s linear;
 	-webkit-transition: opacity .25s linear;
 	-o-transition: opacity .25s linear;
@@ -238,7 +238,7 @@ nav .patrick-active a, nav .charlotte-active a, nav .fouhy-active a, nav .laura-
 nav .pedro-active a, nav .josh-active a, nav .max-active a, nav .megan-active a,
 nav .mike-active a, nav .jon-active a, nav .lauren-active a, nav .rj-active a, 
 nav .patrick a img {
-	background-image: url(images/nav-sprite.png);
+	background-image: url(https://s3.amazonaws.com/bdw3/nav-sprite.png);
 }
 
 nav .charlotte a {          background-position: -900px 0 ;}
@@ -306,7 +306,7 @@ nav .patrick .hover {       background-position: -2857px 0px ;}
     position: fixed;
     top: 359px;
     left: 10px;
-    background: url(images/icons-sprite.png) -719px 0;
+    background: url(https://s3.amazonaws.com/bdw3/icons-sprite.png) -719px 0;
     width: 45px;
     height: 42px;
     -webkit-transition:-webkit-transform 0.5s ease-in-out;
@@ -353,7 +353,7 @@ nav .patrick .hover {       background-position: -2857px 0px ;}
 }
 
 .story .float-right h2 {
-	background: url(images/blurb/title.png) scroll no-repeat;
+	background: url(https://s3.amazonaws.com/bdw3/blurb/title.png) scroll no-repeat;
 	width: 480px;
 	height: 116px;
 	padding: 25px 30px 5px 30px;
@@ -365,11 +365,11 @@ nav .patrick .hover {       background-position: -2857px 0px ;}
 }
 
 .story .float-right h2.darker {
-	background: url(images/blurb/title.png)  scroll no-repeat;
+	background: url(https://s3.amazonaws.com/bdw3/blurb/title.png)  scroll no-repeat;
 }
 
 .story .float-right article {
-	background: url(images/blurb/body-bg.png) scroll repeat;
+	background: url(https://s3.amazonaws.com/bdw3/blurb/body-bg.png) scroll repeat;
 	padding: 43px 50px;
 	margin-top: 45px;
 	width: 440px;
@@ -377,7 +377,7 @@ nav .patrick .hover {       background-position: -2857px 0px ;}
 }
 
 .story .float-right ul {
-	background: url(images/blurb/links-bg.png) scroll repeat;
+	background: url(https://s3.amazonaws.com/bdw3/blurb/links-bg.png) scroll repeat;
 	padding: 13px 50px;
 	margin: 0;
 	font-size: 18px;
@@ -401,7 +401,7 @@ nav .patrick .hover {       background-position: -2857px 0px ;}
 /*-----------------------------------------------------------------------------------------------*/
 
 #patrick {
-	background: url(images/patrick/patrick_back.jpg) 50% 0 no-repeat fixed;
+	background: url(https://s3.amazonaws.com/bdw3/patrick/patrick_back.jpg) 50% 0 no-repeat fixed;
 	color: white;
 	height: 1300px;
 	margin: 0 auto;
@@ -410,7 +410,7 @@ nav .patrick .hover {       background-position: -2857px 0px ;}
 }
 
 #patrick .midground {
-	background: url(images/patrick/patrick_mid.png) 50% 0 no-repeat fixed;
+	background: url(https://s3.amazonaws.com/bdw3/patrick/patrick_mid.png) 50% 0 no-repeat fixed;
 	height: 1500px;
 	margin: 0 auto;
 	padding: 0;
@@ -420,7 +420,7 @@ nav .patrick .hover {       background-position: -2857px 0px ;}
 }
 
 #rj {
-	background: url(images/rj/rj_back.jpg) 50% 0 no-repeat fixed;
+	background: url(https://s3.amazonaws.com/bdw3/rj/rj_back.jpg) 50% 0 no-repeat fixed;
 	color: white;
 	height: 1300px;
 	margin: 0 auto;
@@ -429,7 +429,7 @@ nav .patrick .hover {       background-position: -2857px 0px ;}
 }
 
 #rj .midground {
-	background: url(images/blank/blank_mid.png) 50% 0 no-repeat fixed;
+	background: url(https://s3.amazonaws.com/bdw3/blank/blank_mid.png) 50% 0 no-repeat fixed;
 	height: 1000px;
 	margin: 0 auto;
 	padding: 0;
@@ -439,7 +439,7 @@ nav .patrick .hover {       background-position: -2857px 0px ;}
 }
 
 #fouhy {
-	background: url(images/fouhy/fouhy_back.jpg) 50% 0 no-repeat fixed;
+	background: url(https://s3.amazonaws.com/bdw3/fouhy/fouhy_back.jpg) 50% 0 no-repeat fixed;
 	color: white;
 	height: 1300px;
 	margin: 0 auto;
@@ -448,7 +448,7 @@ nav .patrick .hover {       background-position: -2857px 0px ;}
 }
 
 #fouhy .midground {
-	background: url(images/fouhy/fouhy_mid.png) 50% 500px no-repeat fixed;
+	background: url(https://s3.amazonaws.com/bdw3/fouhy/fouhy_mid.png) 50% 500px no-repeat fixed;
 	height: 1500px;
 	margin: 0 auto;
 	padding: 0;
@@ -458,7 +458,7 @@ nav .patrick .hover {       background-position: -2857px 0px ;}
 }
 
 #laura {
-	background: url(images/laura/laura_back.jpg) 50% 0 no-repeat fixed;
+	background: url(https://s3.amazonaws.com/bdw3/laura/laura_back.jpg) 50% 0 no-repeat fixed;
 	color: white;
 	height: 1300px;
 	margin: 0 auto;
@@ -467,7 +467,7 @@ nav .patrick .hover {       background-position: -2857px 0px ;}
 }
 
 #laura .midground {
-	background: url(images/laura/laura_mid.png) 50% 0 no-repeat fixed;
+	background: url(https://s3.amazonaws.com/bdw3/laura/laura_mid.png) 50% 0 no-repeat fixed;
 	height: 1000px;
 	margin: 0 auto;
 	padding: 0;
@@ -477,7 +477,7 @@ nav .patrick .hover {       background-position: -2857px 0px ;}
 }
 
 #josh {
-	background: url(images/josh/josh_back.jpg) 50% 0 no-repeat fixed;
+	background: url(https://s3.amazonaws.com/bdw3/josh/josh_back.jpg) 50% 0 no-repeat fixed;
 	color: white;
 	height: 1300px;
 	margin: 0 auto;
@@ -486,7 +486,7 @@ nav .patrick .hover {       background-position: -2857px 0px ;}
 }
 
 #josh .midground {
-	background: url(images/josh/josh_mid.png) 50% 0 no-repeat fixed;
+	background: url(https://s3.amazonaws.com/bdw3/josh/josh_mid.png) 50% 0 no-repeat fixed;
 	height: 1500px;
 	margin: 0 auto;
 	padding: 0;
@@ -496,7 +496,7 @@ nav .patrick .hover {       background-position: -2857px 0px ;}
 }
 
 #max {
-	background: url(images/max/max_back.jpg) 50% 0 no-repeat fixed;
+	background: url(https://s3.amazonaws.com/bdw3/max/max_back.jpg) 50% 0 no-repeat fixed;
 	color: white;
 	height: 1300px;
 	margin: 0 auto;
@@ -505,7 +505,7 @@ nav .patrick .hover {       background-position: -2857px 0px ;}
 }
 
 #max .midground {
-	background: url(images/max/max_mid.png) 50% 0 no-repeat fixed;
+	background: url(https://s3.amazonaws.com/bdw3/max/max_mid.png) 50% 0 no-repeat fixed;
 	height: 1500px;
 	margin: 0 auto;
 	padding: 0;
@@ -515,7 +515,7 @@ nav .patrick .hover {       background-position: -2857px 0px ;}
 }
 
 #charlotte {
-	background: url(images/charlotte/charlotte_back.png) 50% 0 no-repeat fixed;
+	background: url(https://s3.amazonaws.com/bdw3/charlotte/charlotte_back.png) 50% 0 no-repeat fixed;
 	color: white;
 	height: 1300px;
 	margin: 0 auto;
@@ -524,7 +524,7 @@ nav .patrick .hover {       background-position: -2857px 0px ;}
 }
 
 #charlotte .midground {
-	background: url(images/charlotte/charlotte_mid.png) 50% 0 no-repeat fixed;
+	background: url(https://s3.amazonaws.com/bdw3/charlotte/charlotte_mid.png) 50% 0 no-repeat fixed;
 	height: 1500px;
 	margin: 0 auto;
 	padding: 0;
@@ -576,7 +576,7 @@ nav .patrick .hover {       background-position: -2857px 0px ;}
 #mike article p { font-size: 16px; }
 
 #megan {
-	background: url(images/megan/megan_back.jpg) 50% 0 no-repeat fixed;
+	background: url(https://s3.amazonaws.com/bdw3/megan/megan_back.jpg) 50% 0 no-repeat fixed;
 	color: white;
 	height: 1300px;
 	margin: 0 auto;
@@ -585,7 +585,7 @@ nav .patrick .hover {       background-position: -2857px 0px ;}
 }
 
 #megan .midground {
-	background: url(images/megan/megan_mid.png) 50% 0 no-repeat fixed;
+	background: url(https://s3.amazonaws.com/bdw3/megan/megan_mid.png) 50% 0 no-repeat fixed;
 	height: 1500px;
 	margin: 0 auto;
 	padding: 0;
@@ -595,7 +595,7 @@ nav .patrick .hover {       background-position: -2857px 0px ;}
 }
 
 #lauren {
-	background: url(images/lauren/lauren_back.jpg) 50% 0 no-repeat fixed;
+	background: url(https://s3.amazonaws.com/bdw3/lauren/lauren_back.jpg) 50% 0 no-repeat fixed;
 	color: white;
 	height: 1300px;
 	margin: 0 auto;
@@ -604,7 +604,7 @@ nav .patrick .hover {       background-position: -2857px 0px ;}
 }
 
 #lauren .midground {
-	background: url(images/lauren/lauren_mid.png) 50% 0 no-repeat fixed;
+	background: url(https://s3.amazonaws.com/bdw3/lauren/lauren_mid.png) 50% 0 no-repeat fixed;
 	height: 1500px;
 	margin: 0 auto;
 	padding: 0;
@@ -614,7 +614,7 @@ nav .patrick .hover {       background-position: -2857px 0px ;}
 }
 
 #pedro {
-	background: url(images/pedro/pedro_back.jpg) 50% 0 no-repeat fixed;
+	background: url(https://s3.amazonaws.com/bdw3/pedro/pedro_back.jpg) 50% 0 no-repeat fixed;
 	color: white;
 	height: 1300px;
 	margin: 0 auto;
@@ -623,7 +623,7 @@ nav .patrick .hover {       background-position: -2857px 0px ;}
 }
 
 #pedro .midground {
-	background: url(images/pedro/pedro_mid.png) 50% 0 no-repeat fixed;
+	background: url(https://s3.amazonaws.com/bdw3/pedro/pedro_mid.png) 50% 0 no-repeat fixed;
 	height: 1500px;
 	margin: 0 auto;
 	padding: 0;
@@ -633,7 +633,7 @@ nav .patrick .hover {       background-position: -2857px 0px ;}
 }
 
 #jon {
-	background: url(images/jon/jon_back.jpg) 50% 0 no-repeat fixed;
+	background: url(https://s3.amazonaws.com/bdw3/jon/jon_back.jpg) 50% 0 no-repeat fixed;
 	color: white;
 	height: 1300px;
 	margin: 0 auto;
@@ -642,7 +642,7 @@ nav .patrick .hover {       background-position: -2857px 0px ;}
 }
 
 #jon .midground {
-	background: url(images/jon/jon_mid.png) 50% 0 no-repeat fixed;
+	background: url(https://s3.amazonaws.com/bdw3/jon/jon_mid.png) 50% 0 no-repeat fixed;
 	height: 1500px;
 	margin: 0 auto;
 	padding: 0;
@@ -657,7 +657,7 @@ nav .patrick .hover {       background-position: -2857px 0px ;}
     display: block;
     width: 45px;
     height: 42px;
-    background: url(images/icons-sprite.png);
+    background: url(https://s3.amazonaws.com/bdw3/icons-sprite.png);
 }
 
 .links li a:hover {
