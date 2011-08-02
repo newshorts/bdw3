@@ -6,7 +6,7 @@
 <!DOCTYPE html>
 <html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<title>Class 3 ∫∫ Boulder Digital Works</title>
+<title>Class 3 || Boulder Digital Works</title>
 <link rel="shortcut icon" href="favicon.ico"> 
 <link rel="icon" type="image/ico" href="favicon.ico">
 <link href="style.css" rel="stylesheet" type="text/css" />
@@ -36,73 +36,73 @@
     	
     <ul role="menu">
 
-            <li role="menuitem" class="charlotte left " data-screenName="charusse">
+            <li role="menuitem" class="charlotte left " data-screen-name="charusse">
 
                 <a href="#charlotte" >
                     <div class="hover"></div>
                 </a>
             </li>
-            <li role="menuitem" class="fouhy left " data-screenName="fouhy">
+            <li role="menuitem" class="fouhy left " data-screen-name="fouhy">
                 <a href="#fouhy" >
 
                     <div class="hover"></div>
                 </a>
             </li>
-            <li role="menuitem" class="laura left " data-screenName="laurahamrick">
+            <li role="menuitem" class="laura left " data-screen-name="laurahamrick">
                 <a href="#laura" >
 
                     <div class="hover"></div>
                 </a>
             </li>
-            <li role="menuitem" class="pedro left " data-screenName="pedrosorren">
+            <li role="menuitem" class="pedro left " data-screen-name="pedrosorren">
                 <a href="#pedro" >
 
                     <div class="hover"></div>
                 </a>
             </li>
-            <li role="menuitem" class="josh left " data-screenName="kadisco">
+            <li role="menuitem" class="josh left " data-screen-name="kadisco">
                 <a href="#josh" >
 
                     <div class="hover"></div>
                 </a>
             </li>
-            <li role="menuitem" class="max left " data-screenName="MxMnr">
+            <li role="menuitem" class="max left " data-screen-name="MxMnr">
                 <a href="#max" >
 
                     <div class="hover"></div>
                 </a>
             </li>
-            <li role="menuitem" class="megan right " data-screenName="megannewt">
+            <li role="menuitem" class="megan right " data-screen-name="megannewt">
                 <a href="#megan" >
 
                     <div class="hover"></div>
                 </a>
             </li>
-            <li role="menuitem" class="patrick right " data-screenName="pkander">
+            <li role="menuitem" class="patrick right " data-screen-name="pkander">
                 <a href="#patrick" >
 
                     <div class="hover"></div>
                 </a>
             </li>
-            <li role="menuitem" class="jon right " data-screenName="JonisDelicious">
+            <li role="menuitem" class="jon right " data-screen-name="JonisDelicious">
                 <a href="#jon" >
 
                     <div class="hover"></div>
                 </a>
             </li>
-            <li role="menuitem" class="lauren right" data-screenName="loparks">
+            <li role="menuitem" class="lauren right" data-screen-name="loparks">
                 <a href="#lauren" >
 
                     <div class="hover"></div>
                 </a>
             </li>
-            <li role="menuitem" class="rj right" data-screenName="rjduranjr">
+            <li role="menuitem" class="rj right" data-screen-name="rjduranjr">
                 <a href="#rj" >
 
                     <div class="hover"></div>
                 </a>
             </li>
-            <li role="menuitem" class="mike right" data-screenName="newshorts">
+            <li role="menuitem" class="mike right" data-screen-name="newshorts">
                 <a href="#mike" >
 
                     <div class="hover"></div>

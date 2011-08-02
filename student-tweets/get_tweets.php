@@ -29,14 +29,37 @@ if ($handle = opendir($path)) {
 
     closedir($handle);
     
+    $file_arr = array_slice($file_arr, 2);
+    
+    
+//    echo "<pre>";
+//    print_r($file_arr);
+    
     if(!empty($file_arr)) {
         
         // loop through file list and return past files within a certain time
         foreach($file_arr as $file_name) {
             
-            $file_time = stristr($file_name, '_', true);
+            if($file_name == "." || $file_name == "..") {
+                
+                break;
+                
+            }
+            
+//            $file_time = stristr($file_name, '_', true);
+//            $file_time = settype((array_shift(explode("_", $file_name))), "integer");
+            
+            $file_time_arr = explode("_", $file_name);
+            
+            $file_time = $file_time_arr[0];
+            
+//            echo $file_time;
+            
+//            print_r($file_time_arr);
+            
             // 3600 is an hour
-            if($file_time > ($current_time - 3600)) {
+            
+            if($file_time > ($current_time - 9999999)) {
                 
                 if(strpos($file_name, "tweeted") === false){
                     
@@ -44,11 +67,21 @@ if ($handle = opendir($path)) {
                     
                 }
                 
+            } else {
+                
+                $warning = array("Warning" => "Tweets not within time range or tweets don't exist.", "error_code" => "999", "file_time" => $file_time, "current_time" => $current_time);
+        
+                print json_encode($warning);
+                
+                exit();
+                
             }
             
         }
         
     }
+    
+//    print_r($output_files);
     
     if(!empty($output_files)) {
         
@@ -69,7 +102,7 @@ if ($handle = opendir($path)) {
         print json_encode($output_content);
         
     } else {
-        $warning = array("Warning" => "No tweets have been received in the allotted time.", "error_code" => "301");
+        $warning = array("Warning" => "No tweets in output files.", "error_code" => "301", "output_files" => $output_files, "file_time" => $file_time);
         
         print json_encode($warning);
     }
