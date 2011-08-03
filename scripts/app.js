@@ -53,9 +53,9 @@
                 text: "",
                 showTweet: function() {
                     $('nav').append('<div class="tweet '+Action.className+' hidden" style="left: '+Action.posLeft+'px;"><a href="#">'+Action.text+'</a></div>');
-                    $('.tweet').slideDown(800)/*.delay(2800).fadeOut(800, function () {
+                    $('.tweet').slideDown(800).delay(2800).fadeOut(800, function () {
                         $(this).remove();
-                    })*/;
+                    });
                 },
                 setPosLeft: function (pos) {
                     Action.posLeft = pos;
