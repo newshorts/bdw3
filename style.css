@@ -324,16 +324,16 @@ nav .patrick .hover {       background-position: -2857px 0px ;}
     position: fixed;
     background: url(images/nav-tweet/right.png) no-repeat 0 0; 
     bottom: 100px;
-    width: 325px;
-    height: 337px;
-    padding-top: 100px;
-    padding-left: 90px;
+    width: 207px;
+    height: 225px;
+    padding-top: 60px;
+    padding-left: 61px;
 }
 
 .tweetLeft a {
     display: block;
-    width: 312px;
-    margin-top: 28px;
+    width: 180px;
+    margin-top: 0px;
     -webkit-transform: rotate(-45deg); 
     -moz-transform: rotate(-45deg); 
     filter: progid:DXImageTransform.Microsoft.BasicImage(rotation=2);
@@ -343,16 +343,16 @@ nav .patrick .hover {       background-position: -2857px 0px ;}
     position: fixed;
     background: url(images/nav-tweet/left.png) no-repeat 0 0;
     bottom: 100px; 
-    width: 412px;
-    height: 337px;
+    width: 258px;
+    height: 243px;
     
-    padding-top: 100px;
-    padding-left: 0;
+    padding-top: 40px;
+    padding-left: 10px;
 }
 
 .tweetRight a {
     display: block;
-    width: 312px;
+    width: 180px;
     margin-top: 20px;
     -webkit-transform: rotate(-45deg); 
     -moz-transform: rotate(-45deg); 

@@ -53,9 +53,9 @@
                 text: "",
                 showTweet: function() {
                     $('nav').append('<div class="tweet '+Action.className+' hidden" style="left: '+Action.posLeft+'px;"><a href="#">'+Action.text+'</a></div>');
-                    $('.tweet').slideDown(800).delay(2800).fadeOut(800, function () {
+                    $('.tweet').slideDown(800)/*.delay(2800).fadeOut(800, function () {
                         $(this).remove();
-                    });
+                    })*/;
                 },
                 setPosLeft: function (pos) {
                     Action.posLeft = pos;
@@ -81,11 +81,11 @@
                             
                             if($(val).hasClass('left')) {
                                 Action.setClassName('tweetLeft');
-                                var newPos = Action.posLeft - 29;
+                                var newPos = Action.posLeft - 9;
                                 Action.setPosLeft(newPos);
                             } else if ($(val).hasClass('right')) {
                                 Action.setClassName('tweetRight');
-                                var newPos = Action.posLeft - 288;
+                                var newPos = Action.posLeft - 171;
                                 Action.setPosLeft(newPos);
                             } else {
                                 console.debug("Unable to determine position: " + Action.posLeft);
@@ -115,32 +115,6 @@
             
             Action.init(username, text);
 
-//            elems.each(function(index, val) {
-//                
-//                if(counter = 0) {
-//                
-//                    var posLeft = 0;
-//
-//                    if($(val).data(username)) {
-//                        posLeft = parseInt(val.offsetLeft);
-//                        console.dir(val);
-//                        counter++;
-//                    }
-//
-//                    if($(val).hasClass("left")) {
-//                        className = "tweetLeft";
-//                        posLeft = posLeft - 29;
-//                    }
-//
-//                    if($(val).hasClass("right")) {
-//                        posLeft = posLeft - 288;
-//                    }
-//                }
-//            });
-
-            
-            
-//            delete posLeft;
-        };
+        }; // end Tweet
 	
 })(jQuery)
