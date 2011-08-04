@@ -112,8 +112,9 @@
             <div class="float-right">
                 <h2>Max<br />Miner</h2>
                 <article>
-                        <p>The multiple backgrounds applied to this section are moved in a similar way to the first section -- every time the user scrolls down the page by a pixel, the positions of the backgrounds are changed.</p>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean nibh erat, sagittis sit amet congue at, aliquam eu libero. Integer molestie, turpis vel ultrices facilisis, nisi mauris sollicitudin mauris, volutpat elementum enim urna eget odio. Donec egestas aliquet facilisis. Nunc eu nunc eget neque ornare fringilla. Nam vel sodales lectus. Nulla in pellentesque eros. Donec ultricies, enim vitae varius cursus, risus mauris iaculis neque, euismod sollicitudin metus erat vitae sapien. Sed pulvinar.</p>
+                        <p>With a background rich in creative work and an eye for business I work to bridge gaps by understanding and connecting the business/client world with that of the creative design.  I specialize in user experience design and creative direction in the digital space with additional experience in interactive production.  
+</p>
+                        <p>Driving forward progress, directing concept/campaign development and ever-improving my knowledge and understanding of what makes users tick - that is what I do.</p>
                 </article>
                 <ul class="links">
                     <li><a class="portfolio" href="http://MxMnr.com/" title="Max Miner"></a></li>

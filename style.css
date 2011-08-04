@@ -159,6 +159,18 @@ header article p {
 	top: 410px;
 }
 
+#bdwcu {
+    background: url(https://s3.amazonaws.com/bdw3/circle.png) no-repeat;
+    width: 145px;
+    height: 160px;
+    position: fixed;
+    top: 20px;
+    left: 20px;
+    padding-top: 60px;
+    padding-left: 40px;
+    padding-right: 35px;
+}
+
 
 /*-----------------------------------------------------------------------------------------------*/
 /*                                         NAV  STYLES                                           */

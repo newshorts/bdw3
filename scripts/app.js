@@ -51,7 +51,11 @@
                 className: "tweetRight",
                 posLeft: 0,
                 text: "",
+                showGeneric: function() {
+                    $('#bdwcu').text(Action.text + " - @" + Action.userName).slideDown().delay(2800).fadeOut(800);
+                },
                 showTweet: function() {
+                    
                     $('nav').append('<div class="tweet '+Action.className+' hidden" style="left: '+Action.posLeft+'px;"><a href="#">'+Action.text+'</a></div>');
                     $('.tweet').slideDown(800).delay(2800).fadeOut(800, function () {
                         $(this).remove();
@@ -106,9 +110,11 @@
                     Action.setText(text);
                     
 //                    console.dir(Action);
-                    
-                    Action.findPosition();
-                    
+                    if(username == "bdwcu") {
+                        Action.showGeneric();
+                    } else {
+                        Action.findPosition();
+                    }
                     console.dir(Action);
                 }
             }; // end Action

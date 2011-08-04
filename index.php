@@ -102,7 +102,7 @@
                     <div class="hover"></div>
                 </a>
             </li>
-            <li role="menuitem" class="mike right" data-newshorts="newshorts">
+            <li role="menuitem" class="mike right" data-miketoilet="miketoilet">
                 <a href="#mike" >
 
                     <div class="hover"></div>
@@ -118,8 +118,11 @@
     <article>
         <p>C3 is the third installment of the Boulder Digital Works experience. We're a collection of multi-talented individuals from many different backgrounds who've come together to lead in digital innovation. We're hybrids that fuse creativity, technical virtuosity, and an entrepreneurial mindset to solve problems. Collaboration is our specialty, and we take pride in our multi-layered approach to creative problem solving.</p>
     </article>
-    <a id="facebook" href="#twitterURL"><img src="https://s3.amazonaws.com/bdw3/facebook.png" alt="Facebook" /></a>
-    <a id="twitter" href="#facebookURL"><img src="https://s3.amazonaws.com/bdw3/twitter.png" alt="Twitter" /></a>
+<!--    <a id="facebook" href="#twitterURL"><img src="https://s3.amazonaws.com/bdw3/facebook.png" alt="Facebook" /></a>-->
+    <a id="facebook" href="http://www.facebook.com/sharer.php?u=<?php echo urlencode("http://bdw3.com"); ?>&t=<?php echo urlencode("Boulder Digital Works Class 3"); ?>" target="blank"><img src="https://s3.amazonaws.com/bdw3/facebook.png" alt="Facebook" /></a>
+<!--    <a id="twitter" href="#facebookURL"><img src="https://s3.amazonaws.com/bdw3/twitter.png" alt="Twitter" /></a>-->
+    <a id="twitter" href="http://twitter.com/share?text=Check%20out%20class%20at%20Boulder%20Digital%20Works,%20they%20make%20some%20cool%20stuff%20-%20bdw3.com" class="twitter-share-button" data-text="Check out class at Boulder Digital Works, they make some cool stuff - bdw3.com"><img src="https://s3.amazonaws.com/bdw3/twitter.png" alt="Twitter" /></a>
+    <div id="bdwcu" data-bdwcu="bdwcu" class="hidden"></div>
 </header>
 
 <noscript>
