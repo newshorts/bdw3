@@ -209,12 +209,15 @@
             <div class="float-right">
                 <h2>RJ Duran</h2>
                     <article>
-                        <p>The multiple backgrounds applied to this section are moved in a similar way to the first section -- every time the user scrolls down the page by a pixel, the positions of the backgrounds are changed.</p>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean nibh erat, sagittis sit amet congue at, aliquam eu libero. Integer molestie, turpis vel ultrices facilisis, nisi mauris sollicitudin mauris, volutpat elementum enim urna eget odio. Donec egestas aliquet facilisis. Nunc eu nunc eget neque ornare fringilla. Nam vel sodales lectus. Nulla in pellentesque eros. Donec ultricies, enim vitae varius cursus, risus mauris iaculis neque, euismod sollicitudin metus erat vitae sapien. Sed pulvinar.</p>
+                        <p>Creative Technologist + Engineer + Artist = Hybrid Media Technologist. I'm a multimodal thinker looking for creative challenges and innovative ways of interacting with data in the post-digital world.</p>
+                        <p>I tinker daily, prototype often, read way too much, and rarely ever draw in between the lines. I can build anything. I’m addicted to Processing, OpenFrameworks, and power tools. I’m a programmer by day, and a hacker by night. I DJ for the love of music and will go into space one day.</p>
+                        <p>Currently, I am an Interactive Developer at Crispin Porter + Bogusky. Post BDW, I’ll be working towards my MS in Multimedia Engineering in the Media Arts & Technology Program at the University of California in Santa Barbara. I am always available for freelance work.</p>
                 </article>
                     <ul class="links">
-                                    <li><a class="portfolio" href="Patrickanders.com" title="Portfolio"></a></li>
-                                    <li><a class="twitter" href="twitter.com/pkander" title="Twitter"></a></li>
+                                    <li><a class="portfolio" href="http://rjduran.net" title="Portfolio"></a></li>
+                                    <li><a class="email" href="mailto:rjduranjr@gmail.com" title="Email"></a></li>
+                                    <li><a class="facebook" href="http://www.facebook.com/rjduranjr" title="Facebook"></a></li>
+                                    <li><a class="twitter" href="http://twitter.com/#!/rjduranjr" title="Twitter"></a></li>
                                     <br class="clear" />
                             </ul>
             </div>
