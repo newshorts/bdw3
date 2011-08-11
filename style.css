@@ -32,7 +32,7 @@ p, ul{
 	font-size-adjust:0.488;
 	font-style:normal;
 	font-size: 16px;
-	font-weight: 100;	
+	font-weight: 300;	
 }
 
 ul {
@@ -749,7 +749,7 @@ nav .patrick .hover {       background-position: -2857px 0px ;}
 }
 
 .links li a.drink {
-    background-position: -786px, 0;
+    background-position: -787px, 0;
 }
 
 .links li a.blog {

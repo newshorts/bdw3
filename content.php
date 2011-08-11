@@ -175,7 +175,7 @@
                 <ul class="links">
                                     <li><a class="portfolio" href="http://jonisdelicious.com/" title="Jon Swihart"></a></li>
                                     <li><a class="twitter" href="http://twitter.com/Jonisdelicious" title="Jon's Twitter"></a></li>
-                                    <li><a class="linkedin" href="http://linkedin.com/in/johnswihart" title="Jon's LinkedIn"></a></li>
+                                    <li><a class="linkedin" href="http://www.linkedin.com/in/jonswihart" title="Jon's LinkedIn"></a></li>
                                     <li><a class="plus" href="https://plus.google.com/114619691664643601771" title="Jon's Google+"></a></li>
                                     <li><a class="portfolio" href="http://jonswihartonline.com" title="Jon's Blog"></a></li>
                                     <br class="clear" />	
