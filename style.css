@@ -390,14 +390,15 @@ nav .patrick .hover {       background-position: -2857px 0px ;}
 
 .story{
 	margin: 0 auto;
-	min-width: 980px;
-	width: 980px;
+/*	min-width: 980px;*/
+/*	width: 980px;*/
 }
 
 .story .float-right{
 	padding: 40px;
 	position: relative;
-	width: 310px;
+/*	width: 310px;*/
+/*        width: 31%;*/
 	top: 115px;
 	right: -24px;
 	z-index: 200;	
@@ -429,6 +430,16 @@ nav .patrick .hover {       background-position: -2857px 0px ;}
 
 .story .float-right ul {
 	background: url(https://s3.amazonaws.com/bdw3/blurb/links-bg.png) scroll repeat;
+	padding: 13px 50px;
+	margin: 0;
+	font-size: 18px;
+	text-transform: lowercase;
+	min-width: 440px;
+	font-weight: normal;
+}
+
+#josh .story .float-right ul {
+	background: url(https://s3.amazonaws.com/bdw3/blurb/links-bg.png) scroll repeat, url(https://s3.amazonaws.com/bdw3/blurb/links-bg.png) scroll repeat;
 	padding: 13px 50px;
 	margin: 0;
 	font-size: 18px;
@@ -480,7 +491,7 @@ nav .patrick .hover {       background-position: -2857px 0px ;}
 }
 
 #rj .midground {
-	background: url(https://s3.amazonaws.com/bdw3/blank/blank_mid.png) 50% 0 no-repeat fixed;
+/*	background: url(https://s3.amazonaws.com/bdw3/blank/blank_mid.png) 50% 0 no-repeat fixed;*/
 	height: 1000px;
 	margin: 0 auto;
 	padding: 0;
@@ -587,7 +598,8 @@ nav .patrick .hover {       background-position: -2857px 0px ;}
 #mike {
 	background: white 50% 0 no-repeat fixed;
 	color: white;
-	height: 1300px;
+/*	height: 1300px;*/
+        height: 1500px;
 	margin: 0 auto;
 	overflow: hidden;
 	padding: 0;
@@ -614,7 +626,8 @@ nav .patrick .hover {       background-position: -2857px 0px ;}
     display: block;
     position: absolute;
     left: -630px;
-    margin: 1070px 0 0 50%;
+/*    margin: 1070px 0 0 50%;*/
+    margin: 1220px 0 0 50%;
     text-align: center;
     width: 1260px;
 }
@@ -758,6 +771,25 @@ nav .patrick .hover {       background-position: -2857px 0px ;}
 
 .links li a.mashable {
     background-position: -69px, 0;
+}
+
+.available {
+    background: url(https://s3.amazonaws.com/bdw3/availability.png) 0 0 no-repeat;
+    width: 18px;
+    height: 23px;
+    display: block;
+    float: left;
+    margin-right: 5px;
+}
+
+.unavailable {
+    background: url(https://s3.amazonaws.com/bdw3/availability.png) -28px -3px no-repeat;
+    width: 16px;
+    height: 16px;
+    display: block;
+    float: left;
+    margin-right: 8px;
+    margin-top: 3px;
 }
 /*-----------------------------------------------------------------------------------------------*/
 /*                                         UTILITY  CLASSES                                      */

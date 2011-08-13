@@ -6,6 +6,7 @@
             <article>
 	            <p>As a child growing up in New York City, instead of Girl Scouts I was taken to the Guggenheim, Met and MOMA after school. I was dragged to weird off-off-broadway shows on the weekends.  I rode alone on the public bus at the age of 10.  I used to dream of being a suburban girl (thanks, Babysitter's Club) but now, I can't imagine growing up any other way. My childhood taught me to be independent, expose myself to as much culture as possible and to not be afraid to go on strange adventures.</p>
 	            <p>My newest adventure? Moving to San Francisco and pursuing a career in strategic planning.</p>
+                    <p><span class="unavailable"></span>unavailable</p>
             </article>
             <ul class="links">
                 <li><a class="portfolio" href="http://charlottemyerberg.com/" title="Charlotte Myerberg"></a></li>
@@ -24,7 +25,8 @@
                 <h2 class="darker">I am<br />Fouhy</h2>
                 <article>
                     <p>I like to make stuff.</p>
-                        <p>creative, pie, friendly, sneakers, patient, sports, curious, art, beach, observer, magazines, t-shirts, blunt, earnest, internet, thoughtful, boston, cookies, interested, music, plants, art director, intellectual, movies, syracuse, irish, television, warm, tall, sane, driver, multidimensional, grapefruit, bicycles, family, beer, sweet, advertising, outdoors, simple, fun, culture, smile, sandwiches, friends, tasteful, blue, providence, goofy, honest, experience, ambitious, steady, interesting.</p>
+                    <p>creative, pie, friendly, sneakers, patient, sports, curious, art, beach, observer, magazines, t-shirts, blunt, earnest, internet, thoughtful, boston, cookies, interested, music, plants, art director, intellectual, movies, syracuse, irish, television, warm, tall, sane, driver, multidimensional, grapefruit, bicycles, family, beer, sweet, advertising, outdoors, simple, fun, culture, smile, sandwiches, friends, tasteful, blue, providence, goofy, honest, experience, ambitious, steady, interesting.</p>
+                    <p><span class="available"></span>available for job, freelance, internship</p>
                 </article>
                 <ul class="links">
                                     <li><a class="portfolio" href="http://brianfouhy.com/" title="Fouhy"></a></li>
@@ -47,6 +49,7 @@
                 <article>
                         <p>Ambitious, optimistic. storyteller and ever changing. Born and raised in the Rocky Mountains, I graduated from the University of Colorado with a degree in Journalism and Advertising and have experience as an intern in market research, advertising and design. </p>
                         <p>I am developing my skills in graphic design, web development, photography, illustration, and production and am excited to take the next steps and focus on strategic planning and user experience.</p>
+                        <p><span class="available"></span>available in December for internship or job</p>
                 </article>
                 <ul class="links">
                                     <li><a class="portfolio" href="http://laurahamrick.com/" title="Laura Hamrick"></a></li>
@@ -70,14 +73,15 @@
                         <p>I strive when playing in the front of the battlefield, because things only matter when they get made. I am an entrepreneur.</p>
                         <p>In a previous life I worked as an international correspondent traveling around the US covering startups, Barack Obama, the ad industry and technology events. I also worked for 3 years doing PR & Marketing for Nasdaq listed companies/products and a well funded startup.</p>
                         <p>If Mondays are one of your favorite days of the week, we should definitely talk.</p>
+                        <p><span class="available"></span>available for job or internship</p>
                 </article>
                 <ul class="links">
                         <li><a class="portfolio" href="http://cargocollective.com/pedrosorren/" title="Pedro Sorrentino"></a></li>
                         <li><a class="twitter" href="http://twitter.com/pedrosorren" title="Pedro's Twitter"></a></li>
                         <li><a class="linkedin" href="http://linkedin.com/in/pedrosorren" title="Pedro's LinkedIn"></a></li>
                         <li><a class="facebook" href="http://facebook.com/pedrosorren" title="Pedro's Facebook"></a></li>
-                        <li><a class="vimeo" href="http://vimeo.com/channels/pedrosorren" title="Pedro's Vimeo Channel"></a></li>
-                        <li><a class="plus" href="http://gplus.gl/nKPjJ" title="Pedro's Google+"></a></li>
+<!--                        <li><a class="vimeo" href="http://vimeo.com/channels/pedrosorren" title="Pedro's Vimeo Channel"></a></li>-->
+<!--                        <li><a class="plus" href="http://gplus.gl/nKPjJ" title="Pedro's Google+"></a></li>-->
                         <li><a class="blog" href="http://pedrosorren.com" title="Pedro's Blog"></a></li>	
                         <li><a class="mashable" href="http://mashable.com/author/pedro-sorrentino/" title="Pedro's Mashable Profile"></a></li>
                         <br class="clear" />	
@@ -95,10 +99,11 @@
                         <p>Hi, I&#39;m <a href="http://www.kadisco.com" title="Kadisco is my website" target="_blank">Josh Kadis</a>. Over the last year, I&#39;ve been fortunate to work on awesome, challenging projects at BDW and the <a href="http://www.fearlessrevolution.com" title="Fear less. Love more." target="_blank">FearLess Cottage</a>. Now, I&#39;m on my way to Brooklyn to join the crew at <a href="http://www.bigspaceship.com" title="I am super excited." target="_blank">Big Spaceship</a> as a developer.</p> 
 
     <p>So rather than talk about myself, I&#39;d like to tell you about the rest of the people on this page. They&#39;ll challenge your thinking. They&#39;re great listeners and fast learners. They&#39;re versatile and professional. They&#39;re sharp as tacks.</p>
+    <p><span class="unavailable"></span>unavailable</p>
                 </article>
                 <ul class="links">
                     <li><a class="portfolio" href="http://kadisco.com/" title="Josh Kadis"></a></li>
-                    <li><a class="twitter" href="http://twitter.com/laurahamrick/" title="Josh's Twitter"></a></li>
+                    <li><a class="twitter" href="http://twitter.com/kadisco/" title="Josh's Twitter"></a></li>
                     <li><a class="linkedin" href="http://linkedin.com/in/joshkadis" title="Josh's LinkedIn"></a></li>
                     <br class="clear" />
                 </ul>
@@ -115,6 +120,7 @@
                         <p>With a background rich in creative work and an eye for business I work to bridge gaps by understanding and connecting the business/client world with that of the creative design.  I specialize in user experience design and creative direction in the digital space with additional experience in interactive production.  
 </p>
                         <p>Driving forward progress, directing concept/campaign development and ever-improving my knowledge and understanding of what makes users tick - that is what I do.</p>
+                        <p><span class="available"></span>available for job or internship</p>
                 </article>
                 <ul class="links">
                     <li><a class="portfolio" href="http://MxMnr.com/" title="Max Miner"></a></li>
@@ -134,6 +140,7 @@
                 <article>
                         <p>I am an adventure seeker. Traversing obstacles on the side of a mountain and navigating branding roadblocks for clients are challenges that I love to tackle.  </p>
                         <p>I have the problem solving skills to take on communication challenges and develop cohesive, innovative advertising strategies.  Although my main focus has been on the strategy side, I continue to develop my design skills and even dabble in web development.</p>
+                        <p><span class="unavailable"></span>unavailable</p>
                 </article>
                 <ul class="links">
                     <li><a class="portfolio" href="http://megannewtonportfolio.com/" title="Megan Newton"></a></li>
@@ -153,6 +160,7 @@
                 <article>
                     <p>In semi-short, I am an innovator, inventor, designer, conduit of culture, chance taker, thrill seeker, gadget addict, night owl,'why not' asker, traffic hater, hat wearer, bike jumper, often speeding, comedy loving, pixel perfectionist, doodle on everything, solution based digital creative. </p>
                     <p>As a creator, I believe there's always a way to connect our physical world to digital. Analog is not dead; it simply needs a creative bridge in order to merge those valuable experiences onto shareable digital platforms.  Enhancing or entertaining consumer lives where they are is what makes ideas scale, and brands grow.</p>
+                    <p><span class="available"></span>available for job or internship</p>
                             </article>
                             <ul class="links">
                                     <li><a class="portfolio" href="http://patrickanders.com/" title="Patrick Anders"></a></li>
@@ -171,13 +179,14 @@
                 <article>
                         <p>I am completely convinced that everything is a story. Everything is a combination of character, plot, and setting. Any problem can be solved when approached this way. My mission is always to discover the right story to tell. Who are the characters and what do they want to do? How can I help them achieve their goals in the time and space we have together? How do we make it interesting?</p> 
                         <p>These questions are not easy to answer and require much exploration, experimentation, and wandering. But the more they are explored, the more the appropriate solution emerges. And the more interested everyone becomes.</p>
+                        <p><span class="available"></span>available for job or internship</p>
                 </article>
                 <ul class="links">
                                     <li><a class="portfolio" href="http://jonisdelicious.com/" title="Jon Swihart"></a></li>
                                     <li><a class="twitter" href="http://twitter.com/Jonisdelicious" title="Jon's Twitter"></a></li>
                                     <li><a class="linkedin" href="http://www.linkedin.com/in/jonswihart" title="Jon's LinkedIn"></a></li>
                                     <li><a class="plus" href="https://plus.google.com/114619691664643601771" title="Jon's Google+"></a></li>
-                                    <li><a class="portfolio" href="http://jonswihartonline.com" title="Jon's Blog"></a></li>
+                                    <li><a class="blog" href="http://jonswihartonline.com" title="Jon's Blog"></a></li>
                                     <br class="clear" />	
                             </ul>
             </div>
@@ -192,10 +201,11 @@
                 <article>
                         <p>It goes something like this...</p>
                         <p>Skier, Lego enthusiast, Sleepwalker, Writer, Model United Nations geek, Muggle, Cultural Explorer, Sour Patch Kids addict, Political Scientist, hula-hooping hippy, Mountain Sports Media editorial and marketing intern, Teton County redneck, Outdoor Industry PR Account Coordinator, Dog foster parent turned dog owner, Boulder Digital Works 60 Weeks Student, Survivor of twenty-two cavities, Digital Cultural Creative</p>
+                        <p><span class="available"></span>available for job or internship</p>
                 </article>
                 <ul class="links">
                     <li><a class="portfolio" href="http://hippyhippyshake.me/" title="Lauren Parker"></a></li>
-                    <li><a class="twitter" href="http://twitter.com/laurahamrick/" title="Lauren's Twitter"></a></li>
+                    <li><a class="twitter" href="http://twitter.com/loparks/" title="Lauren's Twitter"></a></li>
                     <li><a class="linkedin" href="http://linkedin.com/in/parkerle08" title="Lauren's LinkedIn"></a></li>
                     <br class="clear" />
                 </ul>
@@ -207,11 +217,12 @@
 	<div class="story">
             <div class="midground"></div>
             <div class="float-right">
-                <h2>RJ Duran</h2>
+                <h2>RJ<br />Duran</h2>
                     <article>
                         <p>Creative Technologist + Engineer + Artist = Hybrid Media Technologist. I'm a multimodal thinker looking for creative challenges and innovative ways of interacting with data in the post-digital world.</p>
                         <p>I tinker daily, prototype often, read way too much, and rarely ever draw in between the lines. I can build anything. I’m addicted to Processing, OpenFrameworks, and power tools. I’m a programmer by day, and a hacker by night. I DJ for the love of music and will go into space one day.</p>
                         <p>Currently, I am an Interactive Developer at Crispin Porter + Bogusky. Post BDW, I’ll be working towards my MS in Multimedia Engineering in the Media Arts & Technology Program at the University of California in Santa Barbara. I am always available for freelance work.</p>
+                        <p><span class="available"></span>available for job and freelance in California and remotely</p>
                 </article>
                     <ul class="links">
                                     <li><a class="portfolio" href="http://rjduran.net" title="Portfolio"></a></li>
